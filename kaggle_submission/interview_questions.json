@@ -1,0 +1,46 @@
+{
+  "interview_questions": [
+    {
+      "key": "mood",
+      "question_en": "How are you feeling today?",
+      "question_vi": "Bạn cảm thấy thế nào hôm nay?",
+      "options": ["happy", "sad", "tired", "stressed", "calm", "excited", "neutral"],
+      "type": "single_choice"
+    },
+    {
+      "key": "craving",
+      "question_en": "What are you craving?",
+      "question_vi": "Bạn muốn ăn gì?",
+      "options": ["comfort food", "light food", "spicy food", "sweet", "savory", "protein", "vegetables", "surprise me"],
+      "type": "single_choice"
+    },
+    {
+      "key": "group",
+      "question_en": "Who are you eating with?",
+      "question_vi": "Bạn ăn với ai?",
+      "options": ["solo", "couple", "small group (2-3)", "family (4+)", "large group (5+)"],
+      "type": "single_choice"
+    },
+    {
+      "key": "budget",
+      "question_en": "What's your budget?",
+      "question_vi": "Ngân sách của bạn là bao nhiêu?",
+      "options": ["cheap", "moderate", "expensive", "no limit"],
+      "type": "single_choice"
+    },
+    {
+      "key": "time",
+      "question_en": "How much time do you have?",
+      "question_vi": "Bạn có bao nhiêu thời gian?",
+      "options": ["quick (under 15 min)", "normal (15-30 min)", "leisurely (30+ min)"],
+      "type": "single_choice"
+    },
+    {
+      "key": "diet",
+      "question_en": "Any dietary restrictions?",
+      "question_vi": "Bạn có hạn chế ăn uống nào không?",
+      "options": ["none", "vegan", "vegetarian", "keto", "gluten-free", "dairy-free", "nut-free"],
+      "type": "single_choice"
+    }
+  ]
+}

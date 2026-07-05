@@ -1,0 +1,4114 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "name_en": "McDonald's Big Mac",
+      "region_en": "USA",
+      "emoji": "🍔",
+      "description_en": "McDonald's Big Mac",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 2,
+      "name_en": "Wendy's Baconator",
+      "region_en": "USA",
+      "emoji": "🍔",
+      "description_en": "Wendy's Baconator",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 3,
+      "name_en": "KFC Fried Chicken",
+      "region_en": "USA",
+      "emoji": "🍗",
+      "description_en": "KFC Fried Chicken",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 4,
+      "name_en": "Domino's Pizza",
+      "region_en": "USA",
+      "emoji": "🍕",
+      "description_en": "Domino's Pizza",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 5,
+      "name_en": "Subway Footlong",
+      "region_en": "USA",
+      "emoji": "🥖",
+      "description_en": "Subway Footlong",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 6,
+      "name_en": "Taco Bell",
+      "region_en": "USA",
+      "emoji": "🌮",
+      "description_en": "Taco Bell",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 7,
+      "name_en": "Five Guys",
+      "region_en": "USA",
+      "emoji": "🍔",
+      "description_en": "Five Guys",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 8,
+      "name_en": "Mac and Cheese",
+      "region_en": "USA",
+      "emoji": "🍝",
+      "description_en": "Mac and Cheese",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 9,
+      "name_en": "Cookie",
+      "region_en": "USA",
+      "emoji": "🍪",
+      "description_en": "Cookie",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 10,
+      "name_en": "Brownies",
+      "region_en": "USA",
+      "emoji": "🍫",
+      "description_en": "Brownies",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 11,
+      "name_en": "Cheesecake",
+      "region_en": "USA",
+      "emoji": "🍰",
+      "description_en": "Cheesecake",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 12,
+      "name_en": "Pancakes",
+      "region_en": "USA",
+      "emoji": "🥞",
+      "description_en": "Pancakes",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 13,
+      "name_en": "Waffles",
+      "region_en": "USA",
+      "emoji": "🧇",
+      "description_en": "Waffles",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 14,
+      "name_en": "Buffalo Wings",
+      "region_en": "USA",
+      "emoji": "🍗",
+      "description_en": "Buffalo Wings",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 15,
+      "name_en": "BBQ Ribs",
+      "region_en": "USA",
+      "emoji": "🍖",
+      "description_en": "BBQ Ribs",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 16,
+      "name_en": "Hot Dog",
+      "region_en": "USA",
+      "emoji": "🌭",
+      "description_en": "Hot Dog",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 17,
+      "name_en": "Milkshake",
+      "region_en": "USA",
+      "emoji": "🥤",
+      "description_en": "Milkshake",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 18,
+      "name_en": "Root Beer Float",
+      "region_en": "USA",
+      "emoji": "🍦",
+      "description_en": "Root Beer Float",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 19,
+      "name_en": "Apple Pie",
+      "region_en": "USA",
+      "emoji": "🥧",
+      "description_en": "Apple Pie",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 20,
+      "name_en": "S'mores",
+      "region_en": "USA",
+      "emoji": "🍫",
+      "description_en": "S'mores",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 21,
+      "name_en": "Fried Chicken Tenders",
+      "region_en": "USA",
+      "emoji": "🍗",
+      "description_en": "Fried Chicken Tenders",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 22,
+      "name_en": "Onion Rings",
+      "region_en": "USA",
+      "emoji": "🧅",
+      "description_en": "Onion Rings",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 23,
+      "name_en": "French Fries",
+      "region_en": "USA",
+      "emoji": "🍟",
+      "description_en": "French Fries",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 24,
+      "name_en": "Nachos",
+      "region_en": "USA",
+      "emoji": "🧀",
+      "description_en": "Nachos",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 25,
+      "name_en": "Clam Chowder",
+      "region_en": "USA",
+      "emoji": "🍲",
+      "description_en": "Clam Chowder",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 26,
+      "name_en": "Lobster Roll",
+      "region_en": "USA",
+      "emoji": "🦐",
+      "description_en": "Lobster Roll",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 27,
+      "name_en": "Steak",
+      "region_en": "USA",
+      "emoji": "🥩",
+      "description_en": "Steak",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 28,
+      "name_en": "Fried Shrimp",
+      "region_en": "USA",
+      "emoji": "🦐",
+      "description_en": "Fried Shrimp",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 29,
+      "name_en": "Fish and Chips",
+      "region_en": "USA",
+      "emoji": "🐟",
+      "description_en": "Fish and Chips",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 30,
+      "name_en": "Chicken Nuggets",
+      "region_en": "USA",
+      "emoji": "🍗",
+      "description_en": "Chicken Nuggets",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 31,
+      "name_en": "Burger",
+      "region_en": "USA",
+      "emoji": "🍔",
+      "description_en": "Burger",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 32,
+      "name_en": "Pizza Slice",
+      "region_en": "USA",
+      "emoji": "🍕",
+      "description_en": "Pizza Slice",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 33,
+      "name_en": "Quesadilla",
+      "region_en": "USA",
+      "emoji": "🧀",
+      "description_en": "Quesadilla",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 34,
+      "name_en": "Burrito",
+      "region_en": "USA",
+      "emoji": "🌯",
+      "description_en": "Burrito",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 35,
+      "name_en": "Tater Tots",
+      "region_en": "USA",
+      "emoji": "🥔",
+      "description_en": "Tater Tots",
+      "health_tags": [
+        "comfort"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 10
+    },
+    {
+      "id": 36,
+      "name_en": "Tacos Al Pastor",
+      "region_en": "Mexico",
+      "emoji": "🌮",
+      "description_en": "Tacos Al Pastor",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 37,
+      "name_en": "Enchiladas",
+      "region_en": "Mexico",
+      "emoji": "🌯",
+      "description_en": "Enchiladas",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 38,
+      "name_en": "Chiles Rellenos",
+      "region_en": "Mexico",
+      "emoji": "🌶️",
+      "description_en": "Chiles Rellenos",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 39,
+      "name_en": "Guacamole",
+      "region_en": "Mexico",
+      "emoji": "🥑",
+      "description_en": "Guacamole",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 40,
+      "name_en": "Quesadilla",
+      "region_en": "Mexico",
+      "emoji": "🧀",
+      "description_en": "Quesadilla",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 41,
+      "name_en": "Tamales",
+      "region_en": "Mexico",
+      "emoji": "🌮",
+      "description_en": "Tamales",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 42,
+      "name_en": "Mole",
+      "region_en": "Mexico",
+      "emoji": "🍲",
+      "description_en": "Mole",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 43,
+      "name_en": "Tostadas",
+      "region_en": "Mexico",
+      "emoji": "🌮",
+      "description_en": "Tostadas",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 44,
+      "name_en": "Barbacoa",
+      "region_en": "Mexico",
+      "emoji": "🥩",
+      "description_en": "Barbacoa",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 45,
+      "name_en": "Carnitas",
+      "region_en": "Mexico",
+      "emoji": "🍖",
+      "description_en": "Carnitas",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 46,
+      "name_en": "Pozole",
+      "region_en": "Mexico",
+      "emoji": "🍲",
+      "description_en": "Pozole",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 47,
+      "name_en": "Ceviche",
+      "region_en": "Mexico",
+      "emoji": "🦐",
+      "description_en": "Ceviche",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 48,
+      "name_en": "Huevos Rancheros",
+      "region_en": "Mexico",
+      "emoji": "🥚",
+      "description_en": "Huevos Rancheros",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 49,
+      "name_en": "Chorizo",
+      "region_en": "Mexico",
+      "emoji": "🌶️",
+      "description_en": "Chorizo",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 50,
+      "name_en": "Flan",
+      "region_en": "Mexico",
+      "emoji": "🍮",
+      "description_en": "Flan",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 51,
+      "name_en": "Tres Leches",
+      "region_en": "Mexico",
+      "emoji": "🍰",
+      "description_en": "Tres Leches",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 52,
+      "name_en": "Churros",
+      "region_en": "Mexico",
+      "emoji": "🥐",
+      "description_en": "Churros",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 53,
+      "name_en": "Elote",
+      "region_en": "Mexico",
+      "emoji": "🌽",
+      "description_en": "Elote",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 54,
+      "name_en": "Street Tacos",
+      "region_en": "Mexico",
+      "emoji": "🌮",
+      "description_en": "Street Tacos",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 55,
+      "name_en": "Chilaquiles",
+      "region_en": "Mexico",
+      "emoji": "🌮",
+      "description_en": "Chilaquiles",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 56,
+      "name_en": "Ropa Vieja",
+      "region_en": "Mexico",
+      "emoji": "🍖",
+      "description_en": "Ropa Vieja",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 57,
+      "name_en": "Mofongo",
+      "region_en": "Mexico",
+      "emoji": "🥔",
+      "description_en": "Mofongo",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 58,
+      "name_en": "Black Beans Rice",
+      "region_en": "Mexico",
+      "emoji": "🍚",
+      "description_en": "Black Beans Rice",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 59,
+      "name_en": "Sopapillas",
+      "region_en": "Mexico",
+      "emoji": "🍮",
+      "description_en": "Sopapillas",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 60,
+      "name_en": "Tortilla Soup",
+      "region_en": "Mexico",
+      "emoji": "🍲",
+      "description_en": "Tortilla Soup",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 61,
+      "name_en": "Carbonara",
+      "region_en": "Italy",
+      "emoji": "🍝",
+      "description_en": "Carbonara",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 62,
+      "name_en": "Lasagna",
+      "region_en": "Italy",
+      "emoji": "🍝",
+      "description_en": "Lasagna",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 63,
+      "name_en": "Risotto",
+      "region_en": "Italy",
+      "emoji": "🍚",
+      "description_en": "Risotto",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 64,
+      "name_en": "Tiramisu",
+      "region_en": "Italy",
+      "emoji": "🍰",
+      "description_en": "Tiramisu",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 65,
+      "name_en": "Pasta Primavera",
+      "region_en": "Italy",
+      "emoji": "🍝",
+      "description_en": "Pasta Primavera",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 66,
+      "name_en": "Osso Buco",
+      "region_en": "Italy",
+      "emoji": "🍖",
+      "description_en": "Osso Buco",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 67,
+      "name_en": "Saltimbocca",
+      "region_en": "Italy",
+      "emoji": "🍖",
+      "description_en": "Saltimbocca",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 68,
+      "name_en": "Cacio e Pepe",
+      "region_en": "Italy",
+      "emoji": "🍝",
+      "description_en": "Cacio e Pepe",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 69,
+      "name_en": "Gnocchi",
+      "region_en": "Italy",
+      "emoji": "🥔",
+      "description_en": "Gnocchi",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 70,
+      "name_en": "Panna Cotta",
+      "region_en": "Italy",
+      "emoji": "🍮",
+      "description_en": "Panna Cotta",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 71,
+      "name_en": "Gelato",
+      "region_en": "Italy",
+      "emoji": "🍦",
+      "description_en": "Gelato",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 72,
+      "name_en": "Panettone",
+      "region_en": "Italy",
+      "emoji": "🍰",
+      "description_en": "Panettone",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 73,
+      "name_en": "Ravioli",
+      "region_en": "Italy",
+      "emoji": "🍝",
+      "description_en": "Ravioli",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 74,
+      "name_en": "Fettuccine Alfredo",
+      "region_en": "Italy",
+      "emoji": "🍝",
+      "description_en": "Fettuccine Alfredo",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 75,
+      "name_en": "Minestrone",
+      "region_en": "Italy",
+      "emoji": "🍲",
+      "description_en": "Minestrone",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 76,
+      "name_en": "Bruschetta",
+      "region_en": "Italy",
+      "emoji": "🍞",
+      "description_en": "Bruschetta",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 77,
+      "name_en": "Caprese",
+      "region_en": "Italy",
+      "emoji": "🍅",
+      "description_en": "Caprese",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 78,
+      "name_en": "Arancini",
+      "region_en": "Italy",
+      "emoji": "🍚",
+      "description_en": "Arancini",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 79,
+      "name_en": "Polenta",
+      "region_en": "Italy",
+      "emoji": "🍚",
+      "description_en": "Polenta",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 80,
+      "name_en": "Zabaglione",
+      "region_en": "Italy",
+      "emoji": "🍮",
+      "description_en": "Zabaglione",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 81,
+      "name_en": "Cannoli",
+      "region_en": "Italy",
+      "emoji": "🍫",
+      "description_en": "Cannoli",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 82,
+      "name_en": "Spaghetti Bolognese",
+      "region_en": "Italy",
+      "emoji": "🍝",
+      "description_en": "Spaghetti Bolognese",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 83,
+      "name_en": "Parmigiana",
+      "region_en": "Italy",
+      "emoji": "🥘",
+      "description_en": "Parmigiana",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 84,
+      "name_en": "Calzone",
+      "region_en": "Italy",
+      "emoji": "🍕",
+      "description_en": "Calzone",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 85,
+      "name_en": "Focaccia",
+      "region_en": "Italy",
+      "emoji": "🥖",
+      "description_en": "Focaccia",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 86,
+      "name_en": "Risotto Mushroom",
+      "region_en": "Italy",
+      "emoji": "🍚",
+      "description_en": "Risotto Mushroom",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 87,
+      "name_en": "Seafood Pasta",
+      "region_en": "Italy",
+      "emoji": "🍝",
+      "description_en": "Seafood Pasta",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 88,
+      "name_en": "Pizzetta",
+      "region_en": "Italy",
+      "emoji": "🍕",
+      "description_en": "Pizzetta",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 89,
+      "name_en": "Stracciatella Soup",
+      "region_en": "Italy",
+      "emoji": "🍲",
+      "description_en": "Stracciatella Soup",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 90,
+      "name_en": "Affogato",
+      "region_en": "Italy",
+      "emoji": "☕",
+      "description_en": "Affogato",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 91,
+      "name_en": "Pad Thai",
+      "region_en": "Thailand",
+      "emoji": "🍜",
+      "description_en": "Pad Thai",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 92,
+      "name_en": "Green Curry",
+      "region_en": "Thailand",
+      "emoji": "🥘",
+      "description_en": "Green Curry",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 93,
+      "name_en": "Tom Yum",
+      "region_en": "Thailand",
+      "emoji": "🍲",
+      "description_en": "Tom Yum",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 94,
+      "name_en": "Satay",
+      "region_en": "Thailand",
+      "emoji": "🍡",
+      "description_en": "Satay",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 95,
+      "name_en": "Spring Rolls",
+      "region_en": "Thailand",
+      "emoji": "🥟",
+      "description_en": "Spring Rolls",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 96,
+      "name_en": "Mango Sticky Rice",
+      "region_en": "Thailand",
+      "emoji": "🥭",
+      "description_en": "Mango Sticky Rice",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 97,
+      "name_en": "Papaya Salad",
+      "region_en": "Thailand",
+      "emoji": "🥗",
+      "description_en": "Papaya Salad",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 98,
+      "name_en": "Basil Chicken",
+      "region_en": "Thailand",
+      "emoji": "🍗",
+      "description_en": "Basil Chicken",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 99,
+      "name_en": "Massaman Curry",
+      "region_en": "Thailand",
+      "emoji": "🥘",
+      "description_en": "Massaman Curry",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 100,
+      "name_en": "Pad See Ew",
+      "region_en": "Thailand",
+      "emoji": "🍜",
+      "description_en": "Pad See Ew",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 101,
+      "name_en": "Tom Kha Gai",
+      "region_en": "Thailand",
+      "emoji": "🍲",
+      "description_en": "Tom Kha Gai",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 102,
+      "name_en": "Larb",
+      "region_en": "Thailand",
+      "emoji": "🌶️",
+      "description_en": "Larb",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 103,
+      "name_en": "Khao Pad",
+      "region_en": "Thailand",
+      "emoji": "🍚",
+      "description_en": "Khao Pad",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 104,
+      "name_en": "Sai Oua",
+      "region_en": "Thailand",
+      "emoji": "🌶️",
+      "description_en": "Sai Oua",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 105,
+      "name_en": "Mango Lassi",
+      "region_en": "Thailand",
+      "emoji": "🥤",
+      "description_en": "Mango Lassi",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 106,
+      "name_en": "Ramen",
+      "region_en": "Japan",
+      "emoji": "🍜",
+      "description_en": "Ramen",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 107,
+      "name_en": "Sushi",
+      "region_en": "Japan",
+      "emoji": "🍣",
+      "description_en": "Sushi",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 108,
+      "name_en": "Tempura",
+      "region_en": "Japan",
+      "emoji": "🍤",
+      "description_en": "Tempura",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 109,
+      "name_en": "Tonkatsu",
+      "region_en": "Japan",
+      "emoji": "🍖",
+      "description_en": "Tonkatsu",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 110,
+      "name_en": "Miso Soup",
+      "region_en": "Japan",
+      "emoji": "🍲",
+      "description_en": "Miso Soup",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 111,
+      "name_en": "Udon",
+      "region_en": "Japan",
+      "emoji": "🍜",
+      "description_en": "Udon",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 112,
+      "name_en": "Takoyaki",
+      "region_en": "Japan",
+      "emoji": "🐙",
+      "description_en": "Takoyaki",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 113,
+      "name_en": "Okonomiyaki",
+      "region_en": "Japan",
+      "emoji": "🥘",
+      "description_en": "Okonomiyaki",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 114,
+      "name_en": "Yakitori",
+      "region_en": "Japan",
+      "emoji": "🍗",
+      "description_en": "Yakitori",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 115,
+      "name_en": "Donburi",
+      "region_en": "Japan",
+      "emoji": "🍚",
+      "description_en": "Donburi",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 116,
+      "name_en": "Teppanyaki",
+      "region_en": "Japan",
+      "emoji": "🍖",
+      "description_en": "Teppanyaki",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 117,
+      "name_en": "Edamame",
+      "region_en": "Japan",
+      "emoji": "🫘",
+      "description_en": "Edamame",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 118,
+      "name_en": "Matcha Tea",
+      "region_en": "Japan",
+      "emoji": "🍵",
+      "description_en": "Matcha Tea",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 119,
+      "name_en": "Gyoza",
+      "region_en": "Japan",
+      "emoji": "🥟",
+      "description_en": "Gyoza",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 120,
+      "name_en": "Karaage",
+      "region_en": "Japan",
+      "emoji": "🍗",
+      "description_en": "Karaage",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 121,
+      "name_en": "Bibimbap",
+      "region_en": "Korea",
+      "emoji": "🍚",
+      "description_en": "Bibimbap",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 122,
+      "name_en": "Korean BBQ",
+      "region_en": "Korea",
+      "emoji": "🥩",
+      "description_en": "Korean BBQ",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 123,
+      "name_en": "Kimchi",
+      "region_en": "Korea",
+      "emoji": "🥬",
+      "description_en": "Kimchi",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 124,
+      "name_en": "Bulgogi",
+      "region_en": "Korea",
+      "emoji": "🍖",
+      "description_en": "Bulgogi",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 125,
+      "name_en": "Tteokbokki",
+      "region_en": "Korea",
+      "emoji": "🍡",
+      "description_en": "Tteokbokki",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 126,
+      "name_en": "Gimbap",
+      "region_en": "Korea",
+      "emoji": "🍣",
+      "description_en": "Gimbap",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 127,
+      "name_en": "Jjigae",
+      "region_en": "Korea",
+      "emoji": "🍲",
+      "description_en": "Jjigae",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 128,
+      "name_en": "Banchan",
+      "region_en": "Korea",
+      "emoji": "🍡",
+      "description_en": "Banchan",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 129,
+      "name_en": "Hotteok",
+      "region_en": "Korea",
+      "emoji": "🥞",
+      "description_en": "Hotteok",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 130,
+      "name_en": "Ddukbokki",
+      "region_en": "Korea",
+      "emoji": "🍡",
+      "description_en": "Ddukbokki",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 131,
+      "name_en": "Samgyeopsal",
+      "region_en": "Korea",
+      "emoji": "🥓",
+      "description_en": "Samgyeopsal",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 132,
+      "name_en": "Kimchi Jjigae",
+      "region_en": "Korea",
+      "emoji": "🍲",
+      "description_en": "Kimchi Jjigae",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 133,
+      "name_en": "Pajeon",
+      "region_en": "Korea",
+      "emoji": "🥞",
+      "description_en": "Pajeon",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 134,
+      "name_en": "Kimbap",
+      "region_en": "Korea",
+      "emoji": "🍣",
+      "description_en": "Kimbap",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 135,
+      "name_en": "Tteok",
+      "region_en": "Korea",
+      "emoji": "🍡",
+      "description_en": "Tteok",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 136,
+      "name_en": "Peking Duck",
+      "region_en": "China",
+      "emoji": "🦆",
+      "description_en": "Peking Duck",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 137,
+      "name_en": "Dumplings",
+      "region_en": "China",
+      "emoji": "🥟",
+      "description_en": "Dumplings",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 138,
+      "name_en": "Mapo Tofu",
+      "region_en": "China",
+      "emoji": "🥘",
+      "description_en": "Mapo Tofu",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 139,
+      "name_en": "Chow Mein",
+      "region_en": "China",
+      "emoji": "🍜",
+      "description_en": "Chow Mein",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 140,
+      "name_en": "Hot Pot",
+      "region_en": "China",
+      "emoji": "🍲",
+      "description_en": "Hot Pot",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 141,
+      "name_en": "Fried Rice",
+      "region_en": "China",
+      "emoji": "🍚",
+      "description_en": "Fried Rice",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 142,
+      "name_en": "Lo Mein",
+      "region_en": "China",
+      "emoji": "🍜",
+      "description_en": "Lo Mein",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 143,
+      "name_en": "Kung Pao Chicken",
+      "region_en": "China",
+      "emoji": "🍗",
+      "description_en": "Kung Pao Chicken",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 144,
+      "name_en": "Sweet and Sour Pork",
+      "region_en": "China",
+      "emoji": "🍖",
+      "description_en": "Sweet and Sour Pork",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 145,
+      "name_en": "Dim Sum",
+      "region_en": "China",
+      "emoji": "🥟",
+      "description_en": "Dim Sum",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 146,
+      "name_en": "Wontons",
+      "region_en": "China",
+      "emoji": "🥢",
+      "description_en": "Wontons",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 147,
+      "name_en": "Egg Roll",
+      "region_en": "China",
+      "emoji": "🥟",
+      "description_en": "Egg Roll",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 148,
+      "name_en": "General Tso",
+      "region_en": "China",
+      "emoji": "🍗",
+      "description_en": "General Tso",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 149,
+      "name_en": "Fried Wonton",
+      "region_en": "China",
+      "emoji": "🥟",
+      "description_en": "Fried Wonton",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 150,
+      "name_en": "Chow Fun",
+      "region_en": "China",
+      "emoji": "🍜",
+      "description_en": "Chow Fun",
+      "health_tags": [
+        "comfort-food"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 20
+    },
+    {
+      "id": 151,
+      "name_en": "Pho",
+      "region_en": "Vietnam",
+      "emoji": "🍜",
+      "description_en": "Pho",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 152,
+      "name_en": "Banh Mi",
+      "region_en": "Vietnam",
+      "emoji": "🥖",
+      "description_en": "Banh Mi",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 153,
+      "name_en": "Spring Rolls",
+      "region_en": "Vietnam",
+      "emoji": "🥟",
+      "description_en": "Spring Rolls",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 154,
+      "name_en": "Bun Cha",
+      "region_en": "Vietnam",
+      "emoji": "🍖",
+      "description_en": "Bun Cha",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 155,
+      "name_en": "Com Tam",
+      "region_en": "Vietnam",
+      "emoji": "🍚",
+      "description_en": "Com Tam",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 156,
+      "name_en": "Pho Bo",
+      "region_en": "Vietnam",
+      "emoji": "🍜",
+      "description_en": "Pho Bo",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 157,
+      "name_en": "Bun Bo Hue",
+      "region_en": "Vietnam",
+      "emoji": "🍜",
+      "description_en": "Bun Bo Hue",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 158,
+      "name_en": "Banh Hoai",
+      "region_en": "Vietnam",
+      "emoji": "🥖",
+      "description_en": "Banh Hoai",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 159,
+      "name_en": "Egg Rolls",
+      "region_en": "Vietnam",
+      "emoji": "🥟",
+      "description_en": "Egg Rolls",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 160,
+      "name_en": "Vermicelli",
+      "region_en": "Vietnam",
+      "emoji": "🍜",
+      "description_en": "Vermicelli",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 161,
+      "name_en": "Calamansi Juice",
+      "region_en": "Vietnam",
+      "emoji": "🍋",
+      "description_en": "Calamansi Juice",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 162,
+      "name_en": "Cha Ca",
+      "region_en": "Vietnam",
+      "emoji": "🐟",
+      "description_en": "Cha Ca",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 163,
+      "name_en": "Hu Tieu",
+      "region_en": "Vietnam",
+      "emoji": "🍜",
+      "description_en": "Hu Tieu",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 164,
+      "name_en": "Banh Xeo",
+      "region_en": "Vietnam",
+      "emoji": "🥞",
+      "description_en": "Banh Xeo",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 165,
+      "name_en": "Mam Chua",
+      "region_en": "Vietnam",
+      "emoji": "🐟",
+      "description_en": "Mam Chua",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "cheap",
+      "time_required": 15
+    },
+    {
+      "id": 166,
+      "name_en": "Butter Chicken",
+      "region_en": "India",
+      "emoji": "🍖",
+      "description_en": "Butter Chicken",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 167,
+      "name_en": "Biryani",
+      "region_en": "India",
+      "emoji": "🍚",
+      "description_en": "Biryani",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 168,
+      "name_en": "Samosas",
+      "region_en": "India",
+      "emoji": "🥟",
+      "description_en": "Samosas",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 169,
+      "name_en": "Naan",
+      "region_en": "India",
+      "emoji": "🥖",
+      "description_en": "Naan",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 170,
+      "name_en": "Dal Makhani",
+      "region_en": "India",
+      "emoji": "🍲",
+      "description_en": "Dal Makhani",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 171,
+      "name_en": "Tandoori",
+      "region_en": "India",
+      "emoji": "🍗",
+      "description_en": "Tandoori",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 172,
+      "name_en": "Saag Paneer",
+      "region_en": "India",
+      "emoji": "🥬",
+      "description_en": "Saag Paneer",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 173,
+      "name_en": "Tikka Masala",
+      "region_en": "India",
+      "emoji": "🍖",
+      "description_en": "Tikka Masala",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 174,
+      "name_en": "Rogan Josh",
+      "region_en": "India",
+      "emoji": "🍖",
+      "description_en": "Rogan Josh",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 175,
+      "name_en": "Malai Kofta",
+      "region_en": "India",
+      "emoji": "🥘",
+      "description_en": "Malai Kofta",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 176,
+      "name_en": "Chana Masala",
+      "region_en": "India",
+      "emoji": "🥘",
+      "description_en": "Chana Masala",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 177,
+      "name_en": "Raita",
+      "region_en": "India",
+      "emoji": "🥣",
+      "description_en": "Raita",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 178,
+      "name_en": "Lassi",
+      "region_en": "India",
+      "emoji": "🥤",
+      "description_en": "Lassi",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 179,
+      "name_en": "Gulab Jamun",
+      "region_en": "India",
+      "emoji": "🍮",
+      "description_en": "Gulab Jamun",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 180,
+      "name_en": "Kheer",
+      "region_en": "India",
+      "emoji": "🍚",
+      "description_en": "Kheer",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 181,
+      "name_en": "Jalebi",
+      "region_en": "India",
+      "emoji": "🍮",
+      "description_en": "Jalebi",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 182,
+      "name_en": "Pakora",
+      "region_en": "India",
+      "emoji": "🥟",
+      "description_en": "Pakora",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 183,
+      "name_en": "Dosa",
+      "region_en": "India",
+      "emoji": "🍳",
+      "description_en": "Dosa",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 184,
+      "name_en": "Idli",
+      "region_en": "India",
+      "emoji": "🍚",
+      "description_en": "Idli",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 185,
+      "name_en": "Masala Chai",
+      "region_en": "India",
+      "emoji": "☕",
+      "description_en": "Masala Chai",
+      "health_tags": [
+        "spicy"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "cheap",
+      "time_required": 30
+    },
+    {
+      "id": 186,
+      "name_en": "Croissant",
+      "region_en": "France",
+      "emoji": "🥐",
+      "description_en": "Croissant",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 187,
+      "name_en": "Coq au Vin",
+      "region_en": "France",
+      "emoji": "🍖",
+      "description_en": "Coq au Vin",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 188,
+      "name_en": "Beef Bourguignon",
+      "region_en": "France",
+      "emoji": "🥩",
+      "description_en": "Beef Bourguignon",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 189,
+      "name_en": "Crème Brûlée",
+      "region_en": "France",
+      "emoji": "🍮",
+      "description_en": "Crème Brûlée",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 190,
+      "name_en": "Ratatouille",
+      "region_en": "France",
+      "emoji": "🥘",
+      "description_en": "Ratatouille",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 191,
+      "name_en": "Escargot",
+      "region_en": "France",
+      "emoji": "🐌",
+      "description_en": "Escargot",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 192,
+      "name_en": "Foie Gras",
+      "region_en": "France",
+      "emoji": "🦢",
+      "description_en": "Foie Gras",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 193,
+      "name_en": "Cassoulet",
+      "region_en": "France",
+      "emoji": "🍲",
+      "description_en": "Cassoulet",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 194,
+      "name_en": "French Onion Soup",
+      "region_en": "France",
+      "emoji": "🍲",
+      "description_en": "French Onion Soup",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 195,
+      "name_en": "Steak Frites",
+      "region_en": "France",
+      "emoji": "🥩",
+      "description_en": "Steak Frites",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 196,
+      "name_en": "Quiche",
+      "region_en": "France",
+      "emoji": "🥧",
+      "description_en": "Quiche",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 197,
+      "name_en": "Tarte Tatin",
+      "region_en": "France",
+      "emoji": "🥧",
+      "description_en": "Tarte Tatin",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 198,
+      "name_en": "Macarons",
+      "region_en": "France",
+      "emoji": "🍪",
+      "description_en": "Macarons",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 199,
+      "name_en": "Soufflé",
+      "region_en": "France",
+      "emoji": "🍚",
+      "description_en": "Soufflé",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 200,
+      "name_en": "Mousse",
+      "region_en": "France",
+      "emoji": "🍮",
+      "description_en": "Mousse",
+      "health_tags": [
+        "elegant"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "expensive",
+      "time_required": 30
+    },
+    {
+      "id": 201,
+      "name_en": "Paella",
+      "region_en": "Spain",
+      "emoji": "🍚",
+      "description_en": "Paella",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 202,
+      "name_en": "Tapas",
+      "region_en": "Spain",
+      "emoji": "🍡",
+      "description_en": "Tapas",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 203,
+      "name_en": "Gazpacho",
+      "region_en": "Spain",
+      "emoji": "🍲",
+      "description_en": "Gazpacho",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 204,
+      "name_en": "Churros",
+      "region_en": "Spain",
+      "emoji": "🥐",
+      "description_en": "Churros",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 205,
+      "name_en": "Tortilla",
+      "region_en": "Spain",
+      "emoji": "🥚",
+      "description_en": "Tortilla",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 206,
+      "name_en": "Croquetas",
+      "region_en": "Spain",
+      "emoji": "🍟",
+      "description_en": "Croquetas",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 207,
+      "name_en": "Jamón",
+      "region_en": "Spain",
+      "emoji": "🍖",
+      "description_en": "Jamón",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 208,
+      "name_en": "Pulpo",
+      "region_en": "Spain",
+      "emoji": "🐙",
+      "description_en": "Pulpo",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 209,
+      "name_en": "Gambas",
+      "region_en": "Spain",
+      "emoji": "🦐",
+      "description_en": "Gambas",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 210,
+      "name_en": "Empanada",
+      "region_en": "Spain",
+      "emoji": "🥟",
+      "description_en": "Empanada",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 211,
+      "name_en": "Fideuá",
+      "region_en": "Spain",
+      "emoji": "🍜",
+      "description_en": "Fideuá",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 212,
+      "name_en": "Cocido",
+      "region_en": "Spain",
+      "emoji": "🍲",
+      "description_en": "Cocido",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 213,
+      "name_en": "Boquerones",
+      "region_en": "Spain",
+      "emoji": "🐟",
+      "description_en": "Boquerones",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 214,
+      "name_en": "Patatas Bravas",
+      "region_en": "Spain",
+      "emoji": "🥔",
+      "description_en": "Patatas Bravas",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 215,
+      "name_en": "Albondigas",
+      "region_en": "Spain",
+      "emoji": "🍖",
+      "description_en": "Albondigas",
+      "health_tags": [
+        "seafood"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 25
+    },
+    {
+      "id": 216,
+      "name_en": "Greek Salad",
+      "region_en": "Greece",
+      "emoji": "🥗",
+      "description_en": "Greek Salad",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 217,
+      "name_en": "Moussaka",
+      "region_en": "Greece",
+      "emoji": "🥘",
+      "description_en": "Moussaka",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 218,
+      "name_en": "Souvlaki",
+      "region_en": "Greece",
+      "emoji": "🍖",
+      "description_en": "Souvlaki",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 219,
+      "name_en": "Baklava",
+      "region_en": "Greece",
+      "emoji": "🍮",
+      "description_en": "Baklava",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 220,
+      "name_en": "Spanakopita",
+      "region_en": "Greece",
+      "emoji": "🥬",
+      "description_en": "Spanakopita",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 221,
+      "name_en": "Gyro",
+      "region_en": "Greece",
+      "emoji": "🍖",
+      "description_en": "Gyro",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 222,
+      "name_en": "Tzatziki",
+      "region_en": "Greece",
+      "emoji": "🥒",
+      "description_en": "Tzatziki",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 223,
+      "name_en": "Feta",
+      "region_en": "Greece",
+      "emoji": "🧀",
+      "description_en": "Feta",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 224,
+      "name_en": "Mezze",
+      "region_en": "Greece",
+      "emoji": "🍡",
+      "description_en": "Mezze",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 225,
+      "name_en": "Dolma",
+      "region_en": "Greece",
+      "emoji": "🍃",
+      "description_en": "Dolma",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 226,
+      "name_en": "Saganaki",
+      "region_en": "Greece",
+      "emoji": "🧀",
+      "description_en": "Saganaki",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 227,
+      "name_en": "Loukoumades",
+      "region_en": "Greece",
+      "emoji": "🍮",
+      "description_en": "Loukoumades",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 228,
+      "name_en": "Kleftiko",
+      "region_en": "Greece",
+      "emoji": "🍖",
+      "description_en": "Kleftiko",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 229,
+      "name_en": "Htipiti",
+      "region_en": "Greece",
+      "emoji": "🍲",
+      "description_en": "Htipiti",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 230,
+      "name_en": "Salade Horiatiki",
+      "region_en": "Greece",
+      "emoji": "🥗",
+      "description_en": "Salade Horiatiki",
+      "health_tags": [
+        "fresh"
+      ],
+      "mood_tags": [
+        "happy"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 231,
+      "name_en": "Kebab",
+      "region_en": "Turkey",
+      "emoji": "🍖",
+      "description_en": "Kebab",
+      "health_tags": [
+        "authentic"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 232,
+      "name_en": "Turkish Delight",
+      "region_en": "Turkey",
+      "emoji": "🍬",
+      "description_en": "Turkish Delight",
+      "health_tags": [
+        "authentic"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 233,
+      "name_en": "Falafel",
+      "region_en": "Turkey",
+      "emoji": "🌮",
+      "description_en": "Falafel",
+      "health_tags": [
+        "authentic"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 234,
+      "name_en": "Hummus",
+      "region_en": "Turkey",
+      "emoji": "🥜",
+      "description_en": "Hummus",
+      "health_tags": [
+        "authentic"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 235,
+      "name_en": "Turkish Coffee",
+      "region_en": "Turkey",
+      "emoji": "☕",
+      "description_en": "Turkish Coffee",
+      "health_tags": [
+        "authentic"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 236,
+      "name_en": "Baklava",
+      "region_en": "Turkey",
+      "emoji": "🍮",
+      "description_en": "Baklava",
+      "health_tags": [
+        "authentic"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 237,
+      "name_en": "Tabbouleh",
+      "region_en": "Turkey",
+      "emoji": "🥗",
+      "description_en": "Tabbouleh",
+      "health_tags": [
+        "authentic"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 238,
+      "name_en": "Dolma",
+      "region_en": "Turkey",
+      "emoji": "🍃",
+      "description_en": "Dolma",
+      "health_tags": [
+        "authentic"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 239,
+      "name_en": "Sahlep",
+      "region_en": "Turkey",
+      "emoji": "🥤",
+      "description_en": "Sahlep",
+      "health_tags": [
+        "authentic"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 240,
+      "name_en": "Pita Bread",
+      "region_en": "Turkey",
+      "emoji": "🥖",
+      "description_en": "Pita Bread",
+      "health_tags": [
+        "authentic"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 241,
+      "name_en": "Lahmacun",
+      "region_en": "Turkey",
+      "emoji": "🥖",
+      "description_en": "Lahmacun",
+      "health_tags": [
+        "authentic"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 242,
+      "name_en": "Meze",
+      "region_en": "Turkey",
+      "emoji": "🍡",
+      "description_en": "Meze",
+      "health_tags": [
+        "authentic"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 20
+    },
+    {
+      "id": 243,
+      "name_en": "Feijoada",
+      "region_en": "Brazil",
+      "emoji": "🍲",
+      "description_en": "Feijoada",
+      "health_tags": [
+        "festive"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 30
+    },
+    {
+      "id": 244,
+      "name_en": "Churrasco",
+      "region_en": "Brazil",
+      "emoji": "🥩",
+      "description_en": "Churrasco",
+      "health_tags": [
+        "festive"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 30
+    },
+    {
+      "id": 245,
+      "name_en": "Pão de Queijo",
+      "region_en": "Brazil",
+      "emoji": "🧀",
+      "description_en": "Pão de Queijo",
+      "health_tags": [
+        "festive"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 30
+    },
+    {
+      "id": 246,
+      "name_en": "Brigadeiro",
+      "region_en": "Brazil",
+      "emoji": "🍫",
+      "description_en": "Brigadeiro",
+      "health_tags": [
+        "festive"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 30
+    },
+    {
+      "id": 247,
+      "name_en": "Açai Bowl",
+      "region_en": "Brazil",
+      "emoji": "🥣",
+      "description_en": "Açai Bowl",
+      "health_tags": [
+        "festive"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 30
+    },
+    {
+      "id": 248,
+      "name_en": "Caipirinha",
+      "region_en": "Brazil",
+      "emoji": "🍹",
+      "description_en": "Caipirinha",
+      "health_tags": [
+        "festive"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 30
+    },
+    {
+      "id": 249,
+      "name_en": "Picanha",
+      "region_en": "Brazil",
+      "emoji": "🥩",
+      "description_en": "Picanha",
+      "health_tags": [
+        "festive"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 30
+    },
+    {
+      "id": 250,
+      "name_en": "Coxinha",
+      "region_en": "Brazil",
+      "emoji": "🥟",
+      "description_en": "Coxinha",
+      "health_tags": [
+        "festive"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 30
+    },
+    {
+      "id": 251,
+      "name_en": "Pastel",
+      "region_en": "Brazil",
+      "emoji": "🥟",
+      "description_en": "Pastel",
+      "health_tags": [
+        "festive"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 30
+    },
+    {
+      "id": 252,
+      "name_en": "Moqueca",
+      "region_en": "Brazil",
+      "emoji": "🍲",
+      "description_en": "Moqueca",
+      "health_tags": [
+        "festive"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 30
+    },
+    {
+      "id": 253,
+      "name_en": "Pudim",
+      "region_en": "Brazil",
+      "emoji": "🍮",
+      "description_en": "Pudim",
+      "health_tags": [
+        "festive"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 30
+    },
+    {
+      "id": 254,
+      "name_en": "Pavê",
+      "region_en": "Brazil",
+      "emoji": "🍰",
+      "description_en": "Pavê",
+      "health_tags": [
+        "festive"
+      ],
+      "mood_tags": [
+        "celebration"
+      ],
+      "budget": "moderate",
+      "time_required": 30
+    },
+    {
+      "id": 255,
+      "name_en": "Coffee",
+      "region_en": "Global",
+      "emoji": "☕",
+      "description_en": "Coffee",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 256,
+      "name_en": "Tea",
+      "region_en": "Global",
+      "emoji": "🍵",
+      "description_en": "Tea",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 257,
+      "name_en": "Hot Chocolate",
+      "region_en": "Global",
+      "emoji": "🍫",
+      "description_en": "Hot Chocolate",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 258,
+      "name_en": "Smoothie",
+      "region_en": "Global",
+      "emoji": "🥤",
+      "description_en": "Smoothie",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 259,
+      "name_en": "Matcha Latte",
+      "region_en": "Global",
+      "emoji": "🍵",
+      "description_en": "Matcha Latte",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 260,
+      "name_en": "Iced Coffee",
+      "region_en": "Global",
+      "emoji": "☕",
+      "description_en": "Iced Coffee",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 261,
+      "name_en": "Lemonade",
+      "region_en": "Global",
+      "emoji": "🍋",
+      "description_en": "Lemonade",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 262,
+      "name_en": "Fresh Juice",
+      "region_en": "Global",
+      "emoji": "🧃",
+      "description_en": "Fresh Juice",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 263,
+      "name_en": "Milkshake",
+      "region_en": "Global",
+      "emoji": "🥤",
+      "description_en": "Milkshake",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 264,
+      "name_en": "Cappuccino",
+      "region_en": "Global",
+      "emoji": "☕",
+      "description_en": "Cappuccino",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 265,
+      "name_en": "Espresso",
+      "region_en": "Global",
+      "emoji": "☕",
+      "description_en": "Espresso",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 266,
+      "name_en": "Latte",
+      "region_en": "Global",
+      "emoji": "☕",
+      "description_en": "Latte",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 267,
+      "name_en": "Iced Tea",
+      "region_en": "Global",
+      "emoji": "🍵",
+      "description_en": "Iced Tea",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 268,
+      "name_en": "Smoothie Bowl",
+      "region_en": "Global",
+      "emoji": "🥣",
+      "description_en": "Smoothie Bowl",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 269,
+      "name_en": "Horchata",
+      "region_en": "Global",
+      "emoji": "🥛",
+      "description_en": "Horchata",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 270,
+      "name_en": "Agua Fresca",
+      "region_en": "Global",
+      "emoji": "💧",
+      "description_en": "Agua Fresca",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 271,
+      "name_en": "Bubble Tea",
+      "region_en": "Global",
+      "emoji": "🧋",
+      "description_en": "Bubble Tea",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 272,
+      "name_en": "Kombucha",
+      "region_en": "Global",
+      "emoji": "🍶",
+      "description_en": "Kombucha",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 273,
+      "name_en": "Coconut Water",
+      "region_en": "Global",
+      "emoji": "🥥",
+      "description_en": "Coconut Water",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    },
+    {
+      "id": 274,
+      "name_en": "Green Smoothie",
+      "region_en": "Global",
+      "emoji": "🥬",
+      "description_en": "Green Smoothie",
+      "health_tags": [
+        "beverage"
+      ],
+      "mood_tags": [
+        "energized"
+      ],
+      "budget": "cheap",
+      "time_required": 5
+    }
+  ]
+}

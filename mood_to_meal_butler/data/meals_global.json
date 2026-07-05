@@ -1,0 +1,1609 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "name_en": "Classic Cheeseburger",
+      "name_vi": "Bánh Hamburger Phô Mai",
+      "region_en": "United States",
+      "region_vi": "Hoa Kỳ",
+      "mood_tags": [
+        "tired",
+        "stressed",
+        "quick",
+        "sad"
+      ],
+      "health_tags": [
+        "high-energy",
+        "comfort-food"
+      ],
+      "description_en": "A juicy beef patty melted with American cheese, topped with crispy bacon, fresh tomato, lettuce, pickles, and creamy mayo. The bun is toasted to golden perfection. Pure comfort in every bite.",
+      "description_vi": "Miếng thịt bò hàm juicy được nướng vàng, phủ phô mai Mỹ tan chảy, thêm thịt xông khói giòn, cà chua tươi, xà lách, dưa chuPickles và mayonnaise kem. Bánh mì được nướng vàng hoàn hảo.",
+      "restaurant_suggestions": [
+        {
+          "name": "Five Guys",
+          "type": "Premium burger chain"
+        },
+        {
+          "name": "In-N-Out Burger",
+          "type": "West Coast icon"
+        },
+        {
+          "name": "Local diner",
+          "type": "Classic burger joint"
+        }
+      ],
+      "ingredients": [
+        "beef patty",
+        "american cheese",
+        "bacon",
+        "lettuce",
+        "tomato",
+        "pickle",
+        "mayo"
+      ],
+      "time_required": 10,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍔"
+    },
+    {
+      "id": 2,
+      "name_en": "Grilled Salmon with Lemon Butter",
+      "name_vi": "Cá Hồi Nướng Với Bơ Chanh",
+      "region_en": "United States / Scandinavia",
+      "region_vi": "Hoa Kỳ / Bắc Âu",
+      "mood_tags": [
+        "health-conscious",
+        "energized",
+        "fresh"
+      ],
+      "health_tags": [
+        "low-calorie",
+        "high-protein",
+        "omega-3"
+      ],
+      "description_en": "A perfectly seared salmon fillet with crispy skin, drizzled with zesty lemon butter sauce. Served with roasted asparagus and quinoa. Fresh, light, and absolutely delicious.",
+      "description_vi": "Cá hồi nướng giòn da ngoài, mềm bên trong, rưới sốt bơ chanh tươi mát. Kèm theo măng tây nướng và quinoa. Nhẹ nhàng, tươi mới, và cực kỳ ngon.",
+      "restaurant_suggestions": [
+        {
+          "name": "Legal Sea Foods",
+          "type": "Upscale seafood"
+        },
+        {
+          "name": "Whole Foods Market",
+          "type": "Healthy option"
+        },
+        {
+          "name": "Local seafood restaurant",
+          "type": "Fresh catch"
+        }
+      ],
+      "ingredients": [
+        "salmon fillet",
+        "lemon",
+        "butter",
+        "asparagus",
+        "quinoa"
+      ],
+      "time_required": 25,
+      "budget": "expensive",
+      "diet_ok": [
+        "regular",
+        "keto",
+        "paleo"
+      ],
+      "emoji": "🐟"
+    },
+    {
+      "id": 3,
+      "name_en": "Creamy Chocolate Cake",
+      "name_vi": "Bánh Socola Kem Mịn",
+      "region_en": "Europe",
+      "region_vi": "Châu Âu",
+      "mood_tags": [
+        "sad",
+        "stressed",
+        "celebration"
+      ],
+      "health_tags": [
+        "comfort-food",
+        "mood-boost"
+      ],
+      "description_en": "A decadent double-layer chocolate cake with rich chocolate frosting and a creamy center. Each forkful melts on your tongue, releasing waves of pure cocoa bliss.",
+      "description_vi": "Bánh socola hai lớp với kem socola đậm đà và trung tâm kem mịn. Mỗi miếng tan trên lưỡi, giải phóng những làn sóng hạnh phúc socola nguyên chất.",
+      "restaurant_suggestions": [
+        {
+          "name": "The Cheesecake Factory",
+          "type": "Dessert destination"
+        },
+        {
+          "name": "Local bakery",
+          "type": "Homemade comfort"
+        },
+        {
+          "name": "French patisserie",
+          "type": "Artisan chocolate"
+        }
+      ],
+      "ingredients": [
+        "chocolate",
+        "flour",
+        "eggs",
+        "butter",
+        "frosting"
+      ],
+      "time_required": 60,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍰"
+    },
+    {
+      "id": 4,
+      "name_en": "Thai Pad Thai",
+      "name_vi": "Phad Thai",
+      "region_en": "Thailand",
+      "region_vi": "Thái Lan",
+      "mood_tags": [
+        "stressed",
+        "energized",
+        "spicy-mood"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "vegetable-rich"
+      ],
+      "description_en": "Chewy rice noodles stir-fried with shrimp, tofu, and fresh vegetables in a tangy tamarind sauce. Topped with crushed peanuts, fresh lime, and green onions. A perfect balance of sweet, salty, sour, and spicy.",
+      "description_vi": "Bánh phở Thái mềm dẻo xào với tôm, đậu phụ và rau tươi trong nước sốt me chua. Rắc đậu phộng nghiền, chanh tươi và hành lá. Sự cân bằng hoàn hảo của chua, mặn, chua và cay.",
+      "restaurant_suggestions": [
+        {
+          "name": "Thai Express",
+          "type": "Quick Thai"
+        },
+        {
+          "name": "Pad Thai restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Asian fusion spot",
+          "type": "Modern twist"
+        }
+      ],
+      "ingredients": [
+        "rice noodles",
+        "shrimp",
+        "tofu",
+        "tamarind",
+        "peanuts",
+        "lime"
+      ],
+      "time_required": 15,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular",
+        "vegetarian"
+      ],
+      "emoji": "🍜"
+    },
+    {
+      "id": 5,
+      "name_en": "Italian Margherita Pizza",
+      "name_vi": "Pizza Margherita Ý",
+      "region_en": "Italy",
+      "region_vi": "Ý",
+      "mood_tags": [
+        "celebration",
+        "gathering",
+        "comfort"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "carbs"
+      ],
+      "description_en": "A thin, crispy crust topped with fresh tomato sauce, creamy mozzarella, fresh basil, and a drizzle of olive oil. Simple, elegant, and absolutely authentic.",
+      "description_vi": "Lớp vỏ mỏng giòn phủ nước sốt cà chua tươi, phô mai mozzarella kem, lá húng quế tươi và một chút dầu ôliu. Đơn giản, tinh tế và cực kỳ ngon.",
+      "restaurant_suggestions": [
+        {
+          "name": "Pizzeria Bianco",
+          "type": "Authentic Italian"
+        },
+        {
+          "name": "Local Italian pizzeria",
+          "type": "Wood-fired"
+        },
+        {
+          "name": "Pizzeria Prima",
+          "type": "NY-style"
+        }
+      ],
+      "ingredients": [
+        "pizza dough",
+        "tomato sauce",
+        "mozzarella",
+        "basil",
+        "olive oil"
+      ],
+      "time_required": 20,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular",
+        "vegetarian"
+      ],
+      "emoji": "🍕"
+    },
+    {
+      "id": 6,
+      "name_en": "Japanese Ramen Bowl",
+      "name_vi": "Mì Ramen Nhật Bản",
+      "region_en": "Japan",
+      "region_vi": "Nhật Bản",
+      "mood_tags": [
+        "tired",
+        "cold-day",
+        "comfort"
+      ],
+      "health_tags": [
+        "warm-comfort",
+        "umami-rich"
+      ],
+      "description_en": "Silky noodles in a rich, deeply flavorful broth infused with pork bone or miso. Topped with a soft-boiled egg, tender chashu pork, green onions, and nori. Warming, soul-satisfying, and packed with umami.",
+      "description_vi": "Mì mềm mịn trong nước dùng đậm đà, thơm ngon từ xương lợn hoặc tương. Phủ trứng luộc mềm, thịt chashu mềm, hành lá và rong biển nori. Ấm áp, thỏa mãn từ linh hồn.",
+      "restaurant_suggestions": [
+        {
+          "name": "Ippudo Ramen",
+          "type": "Japanese chain"
+        },
+        {
+          "name": "Tonkotsu specialist",
+          "type": "Authentic"
+        },
+        {
+          "name": "Asian noodle house",
+          "type": "Local favorite"
+        }
+      ],
+      "ingredients": [
+        "ramen noodles",
+        "pork bone broth",
+        "egg",
+        "pork belly",
+        "nori",
+        "green onion"
+      ],
+      "time_required": 20,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍜"
+    },
+    {
+      "id": 7,
+      "name_en": "Quinoa Buddha Bowl",
+      "name_vi": "Bát Buddha Với Quinoa",
+      "region_en": "Global Health Trend",
+      "region_vi": "Xu Hướng Sức Khỏe Toàn Cầu",
+      "mood_tags": [
+        "health-conscious",
+        "energized",
+        "fresh"
+      ],
+      "health_tags": [
+        "low-calorie",
+        "high-protein",
+        "vegan-friendly"
+      ],
+      "description_en": "A colorful bowl bursting with nutritious ingredients: fluffy quinoa, roasted chickpeas, fresh kale, sliced avocado, cherry tomatoes, cucumber, and a tahini dressing. Balanced, nourishing, and incredibly satisfying.",
+      "description_vi": "Một bát đầy màu sắc với các nguyên liệu bổ dưỡng: quinoa mềm, đậu gà nướng, cải xoăn tươi, bơ cắt lát, cà chua anh đào, dưa chuot và nước sốt tahini. Cân bằng, nuôi dưỡng và cực kỳ thỏa mãn.",
+      "restaurant_suggestions": [
+        {
+          "name": "Sweetgreen",
+          "type": "Health-focused chain"
+        },
+        {
+          "name": "Dig",
+          "type": "Build-your-own bowls"
+        },
+        {
+          "name": "Whole Foods Market",
+          "type": "Fresh options"
+        }
+      ],
+      "ingredients": [
+        "quinoa",
+        "chickpeas",
+        "kale",
+        "avocado",
+        "tomato",
+        "cucumber",
+        "tahini"
+      ],
+      "time_required": 15,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular",
+        "vegan",
+        "vegetarian",
+        "paleo"
+      ],
+      "emoji": "🥣"
+    },
+    {
+      "id": 8,
+      "name_en": "French Croissant",
+      "name_vi": "Bánh Croissant Pháp",
+      "region_en": "France",
+      "region_vi": "Pháp",
+      "mood_tags": [
+        "morning-treat",
+        "celebration",
+        "fresh"
+      ],
+      "health_tags": [
+        "quick-breakfast",
+        "pastry"
+      ],
+      "description_en": "A flaky, buttery pastry with 100+ delicate layers that shatter at the first bite. The inside is soft and tender, with a subtle sweetness that makes every layer irresistible.",
+      "description_vi": "Bánh nước ngoài giòn, bơ béo với 100+ lớp mỏng manh tan ngay khi cắn. Bên trong mềm mịn, ngọt nhẹ khiến mỗi lớp không thể cưỡng lại.",
+      "restaurant_suggestions": [
+        {
+          "name": "French bakery",
+          "type": "Authentic pastries"
+        },
+        {
+          "name": "Levain Bakery",
+          "type": "Premium baked goods"
+        },
+        {
+          "name": "Starbucks",
+          "type": "Quick grab"
+        }
+      ],
+      "ingredients": [
+        "butter",
+        "flour",
+        "salt",
+        "water"
+      ],
+      "time_required": 10,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular",
+        "vegetarian"
+      ],
+      "emoji": "🥐"
+    },
+    {
+      "id": 9,
+      "name_en": "Korean Bibimbap",
+      "name_vi": "Cơm Trộn Bibimbap Hàn Quốc",
+      "region_en": "South Korea",
+      "region_vi": "Hàn Quốc",
+      "mood_tags": [
+        "comfort",
+        "energized",
+        "gathering"
+      ],
+      "health_tags": [
+        "balanced-meal",
+        "vegetable-rich"
+      ],
+      "description_en": "A stunning bowl of warm rice topped with colorful vegetables, sautéed mushrooms, beef, a fried egg, and a dollop of gochujang sauce. Mix it all together for a symphony of flavors and textures.",
+      "description_vi": "Một bát cơm ấm phủ rau đủ màu, nấm xào, thịt bò, trứng chiên và một nĩa sốt gochujang. Trộn tất cả lại để có một bài giao hưởng của hương vị và kết cấu.",
+      "restaurant_suggestions": [
+        {
+          "name": "Korean BBQ restaurant",
+          "type": "Full Korean experience"
+        },
+        {
+          "name": "Bibimbap specialty",
+          "type": "Authentic"
+        },
+        {
+          "name": "Asian fusion spot",
+          "type": "Modern twist"
+        }
+      ],
+      "ingredients": [
+        "rice",
+        "beef",
+        "mushroom",
+        "egg",
+        "vegetables",
+        "gochujang"
+      ],
+      "time_required": 20,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular",
+        "vegetarian"
+      ],
+      "emoji": "🍚"
+    },
+    {
+      "id": 10,
+      "name_en": "Greek Mediterranean Salad",
+      "name_vi": "Salad Địa Trung Hải Hy Lạp",
+      "region_en": "Greece",
+      "region_vi": "Hy Lạp",
+      "mood_tags": [
+        "health-conscious",
+        "fresh",
+        "light"
+      ],
+      "health_tags": [
+        "low-calorie",
+        "fresh-vegetables"
+      ],
+      "description_en": "Crisp romaine lettuce, ripe tomatoes, crispy cucumbers, tangy Kalamata olives, creamy feta cheese, and red onions tossed with a light olive oil and oregano dressing. Fresh, light, and bursting with Mediterranean flavors.",
+      "description_vi": "Xà lách romaine giòn, cà chua chín, dưa chuột giòn, olive Kalamata chua, phô mai feta kem, và hành đỏ trộn với nước sốt dầu ôliu nhẹ và oregano. Tươi mới, nhẹ nhàng và tràn ngập hương vị Địa Trung Hải.",
+      "restaurant_suggestions": [
+        {
+          "name": "Greek taverna",
+          "type": "Authentic"
+        },
+        {
+          "name": "Mediterranean restaurant",
+          "type": "Fresh options"
+        },
+        {
+          "name": "Olive Garden",
+          "type": "Casual dining"
+        }
+      ],
+      "ingredients": [
+        "lettuce",
+        "tomato",
+        "cucumber",
+        "olives",
+        "feta",
+        "olive oil"
+      ],
+      "time_required": 10,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular",
+        "vegan",
+        "vegetarian"
+      ],
+      "emoji": "🥗"
+    },
+    {
+      "id": 11,
+      "name_en": "Mexican Tacos Al Pastor",
+      "name_vi": "Bánh Tacos Al Pastor Mexico",
+      "region_en": "Mexico",
+      "region_vi": "Mexico",
+      "mood_tags": [
+        "celebration",
+        "gathering",
+        "energized"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "spicy"
+      ],
+      "description_en": "Seasoned pork shoulder slow-roasted with pineapple and spices, shaved thin and served on warm corn tortillas. Topped with fresh cilantro, onions, and lime. Absolutely mouthwatering.",
+      "description_vi": "Thịt lợn vai được nướng chậm với dứa và gia vị, cắt mỏng và dùng với bánh tortilla ngô ấm. Rắc mùi tây tươi, hành và chanh. Cực kỳ ngon miệng.",
+      "restaurant_suggestions": [
+        {
+          "name": "Gjelina",
+          "type": "Mexican street food"
+        },
+        {
+          "name": "Local taco truck",
+          "type": "Authentic"
+        },
+        {
+          "name": "Baja Fresh",
+          "type": "Casual chain"
+        }
+      ],
+      "ingredients": [
+        "pork shoulder",
+        "pineapple",
+        "corn tortilla",
+        "cilantro",
+        "lime"
+      ],
+      "time_required": 30,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🌮"
+    },
+    {
+      "id": 12,
+      "name_en": "Indian Butter Chicken",
+      "name_vi": "Gà Butter Ấn Độ",
+      "region_en": "India",
+      "region_vi": "Ấn Độ",
+      "mood_tags": [
+        "comfort",
+        "spicy-mood",
+        "gathering"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "protein-rich"
+      ],
+      "description_en": "Tender chicken in a creamy, velvety tomato-based sauce with a hint of spice and aromatic spices. Served with fragrant basmati rice and warm naan bread. Deeply satisfying and aromatic.",
+      "description_vi": "Gà mềm trong nước sốt cà chua kem, mịn mà có hương vị gia vị thơm. Dùng kèm cơm basmati thơm và bánh naan ấm. Rất thỏa mãn và thơm ngon.",
+      "restaurant_suggestions": [
+        {
+          "name": "Curry in a Hurry",
+          "type": "Indian chain"
+        },
+        {
+          "name": "Local Indian restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Taj",
+          "type": "Upscale Indian"
+        }
+      ],
+      "ingredients": [
+        "chicken",
+        "tomato sauce",
+        "cream",
+        "spices",
+        "basmati rice",
+        "naan"
+      ],
+      "time_required": 35,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 13,
+      "name_en": "Middle Eastern Falafel Wrap",
+      "name_vi": "Bánh Wrap Falafel Trung Đông",
+      "region_en": "Middle East",
+      "region_vi": "Trung Đông",
+      "mood_tags": [
+        "health-conscious",
+        "quick",
+        "fresh"
+      ],
+      "health_tags": [
+        "vegetarian-friendly",
+        "moderate-calorie"
+      ],
+      "description_en": "Golden, crispy fried chickpea balls nestled in soft pita bread with fresh tomatoes, cucumbers, lettuce, and creamy tahini sauce. Fresh, satisfying, and absolutely delicious.",
+      "description_vi": "Những quả cầu đậu gà chiên giòn vàng nằm trong bánh pita mềm với cà chua tươi, dưa chuột, xà lách và nước sốt tahini kem. Tươi mới, thỏa mãn và cực kỳ ngon.",
+      "restaurant_suggestions": [
+        {
+          "name": "Ottolenghi",
+          "type": "Mediterranean"
+        },
+        {
+          "name": "Local falafel stand",
+          "type": "Authentic"
+        },
+        {
+          "name": "Falafel King",
+          "type": "Casual chain"
+        }
+      ],
+      "ingredients": [
+        "chickpeas",
+        "pita bread",
+        "tomato",
+        "cucumber",
+        "tahini"
+      ],
+      "time_required": 15,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular",
+        "vegan",
+        "vegetarian"
+      ],
+      "emoji": "🧆"
+    },
+    {
+      "id": 14,
+      "name_en": "Spanish Paella",
+      "name_vi": "Cơm Paella Tây Ban Nha",
+      "region_en": "Spain",
+      "region_vi": "Tây Ban Nha",
+      "mood_tags": [
+        "celebration",
+        "gathering",
+        "energized"
+      ],
+      "health_tags": [
+        "balanced-meal",
+        "seafood"
+      ],
+      "description_en": "Saffron-infused rice with seafood, chicken, and vegetables, all cooked together in a wide, shallow pan. Golden, aromatic, and packed with Mediterranean flavors.",
+      "description_vi": "Cơm ngao thơm với hải sản, gà và rau, nấu cùng nhau trong một cái chảo rộng nông. Vàng óng, thơm ngon và tràn đầy hương vị Địa Trung Hải.",
+      "restaurant_suggestions": [
+        {
+          "name": "Spanish tapas bar",
+          "type": "Authentic"
+        },
+        {
+          "name": "Mediterranean restaurant",
+          "type": "Fresh"
+        },
+        {
+          "name": "Local Spanish restaurant",
+          "type": "Family-run"
+        }
+      ],
+      "ingredients": [
+        "rice",
+        "saffron",
+        "seafood",
+        "chicken",
+        "vegetables"
+      ],
+      "time_required": 40,
+      "budget": "expensive",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 15,
+      "name_en": "Vietnamese Pho",
+      "name_vi": "Phở Việt Nam",
+      "region_en": "Vietnam",
+      "region_vi": "Việt Nam",
+      "mood_tags": [
+        "tired",
+        "cold-day",
+        "comfort"
+      ],
+      "health_tags": [
+        "warm-comfort",
+        "broth-based"
+      ],
+      "description_en": "Aromatic beef broth simmered for hours with fragrant spices, served over silky rice noodles and tender beef slices. Topped with fresh herbs, bean sprouts, and lime. Soul-warming and deeply comforting.",
+      "description_vi": "Nước dùng bò thơm nức được nấu hàng giờ với gia vị thơm, dùng với bánh phở mềm mịn và lát thịt bò mềm. Rắc rau thơm tươi, giá đỗ và chanh. Ấm áp linh hồn.",
+      "restaurant_suggestions": [
+        {
+          "name": "Pho 75",
+          "type": "Vietnamese chain"
+        },
+        {
+          "name": "Local pho restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Vietnamese noodle house",
+          "type": "Family favorite"
+        }
+      ],
+      "ingredients": [
+        "beef broth",
+        "rice noodles",
+        "beef",
+        "herbs",
+        "bean sprouts"
+      ],
+      "time_required": 25,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍜"
+    },
+    {
+      "id": 16,
+      "name_en": "Japanese Tonkatsu",
+      "name_vi": "Tonkatsu Nhật Bản",
+      "region_en": "Japan",
+      "region_vi": "Nhật Bản",
+      "mood_tags": [
+        "energized",
+        "celebration",
+        "comfort"
+      ],
+      "health_tags": [
+        "high-protein",
+        "fried"
+      ],
+      "description_en": "A breaded and deep-fried pork cutlet served with tangy tonkatsu sauce, crispy cabbage slaw, and steamed rice. Satisfying, crunchy, and incredibly flavorful.",
+      "description_vi": "Thịt lợn chiên xù được phủ vỏ bánh mì, dùng với nước sốt tonkatsu chua, coleslaw bắp cải giòn và cơm hấp. Thỏa mãn, giòn và cực kỳ thơm ngon.",
+      "restaurant_suggestions": [
+        {
+          "name": "Tonkatsu House",
+          "type": "Japanese specialist"
+        },
+        {
+          "name": "Japanese restaurant",
+          "type": "Casual"
+        },
+        {
+          "name": "Katsu specialty",
+          "type": "Authentic"
+        }
+      ],
+      "ingredients": [
+        "pork cutlet",
+        "breadcrumbs",
+        "tonkatsu sauce",
+        "cabbage",
+        "rice"
+      ],
+      "time_required": 20,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 17,
+      "name_en": "American BBQ Ribs",
+      "name_vi": "Sườn Nướng BBQ Mỹ",
+      "region_en": "United States",
+      "region_vi": "Hoa Kỳ",
+      "mood_tags": [
+        "celebration",
+        "gathering",
+        "comfort"
+      ],
+      "health_tags": [
+        "high-calorie",
+        "indulgent"
+      ],
+      "description_en": "Fall-off-the-bone ribs smothered in smoky barbecue sauce, slow-cooked to perfection. Served with cornbread, coleslaw, and baked beans. Ultimate comfort food.",
+      "description_vi": "Sườn tan khỏi xương được phủ nước sốt BBQ khói, nấu chậm hoàn hảo. Dùng với bánh ngô, coleslaw và đậu nướng. Thức ăn thoải mái tối cao.",
+      "restaurant_suggestions": [
+        {
+          "name": "Salt Lick BBQ",
+          "type": "Texas BBQ"
+        },
+        {
+          "name": "Smoke Shack",
+          "type": "NYC style"
+        },
+        {
+          "name": "Local BBQ joint",
+          "type": "Regional favorite"
+        }
+      ],
+      "ingredients": [
+        "pork ribs",
+        "bbq sauce",
+        "cornbread",
+        "coleslaw",
+        "baked beans"
+      ],
+      "time_required": 180,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 18,
+      "name_en": "Thai Mango Sticky Rice",
+      "name_vi": "Xôi Dừa Xoài Thái",
+      "region_en": "Thailand",
+      "region_vi": "Thái Lan",
+      "mood_tags": [
+        "celebration",
+        "fresh",
+        "sweet"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "fruit-based"
+      ],
+      "description_en": "Sweet sticky rice infused with coconut milk, topped with silky fresh mango slices. A perfect balance of creamy, sweet, and fruity. Absolutely dreamy.",
+      "description_vi": "Xôi ngon ngào với sữa dừa, phủ lên lát xoài tươi mềm. Sự cân bằng hoàn hảo giữa kem, ngọt và trái cây. Tuyệt vời.",
+      "restaurant_suggestions": [
+        {
+          "name": "Thai dessert cafe",
+          "type": "Specialty"
+        },
+        {
+          "name": "Thai restaurant",
+          "type": "Full menu"
+        },
+        {
+          "name": "Asian fusion dessert",
+          "type": "Modern"
+        }
+      ],
+      "ingredients": [
+        "sticky rice",
+        "coconut milk",
+        "mango"
+      ],
+      "time_required": 15,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular",
+        "vegan",
+        "vegetarian"
+      ],
+      "emoji": "🍚"
+    },
+    {
+      "id": 19,
+      "name_en": "Caprese Sandwich",
+      "name_vi": "Bánh Kẹp Caprese",
+      "region_en": "Italy",
+      "region_vi": "Ý",
+      "mood_tags": [
+        "fresh",
+        "light",
+        "quick"
+      ],
+      "health_tags": [
+        "low-calorie",
+        "fresh-vegetables"
+      ],
+      "description_en": "Soft ciabatta bread layered with creamy fresh mozzarella, ripe tomatoes, fresh basil, and a drizzle of balsamic vinegar. Simple, elegant, and absolutely refreshing.",
+      "description_vi": "Bánh ciabatta mềm xếp lớp với phô mai mozzarella tươi kem, cà chua chín, lá húng quế tươi và một chút dấm balsamic. Đơn giản, tinh tế và cực kỳ sảng khoái.",
+      "restaurant_suggestions": [
+        {
+          "name": "Italian bakery",
+          "type": "Fresh ingredients"
+        },
+        {
+          "name": "Gourmet sandwich shop",
+          "type": "Artisan"
+        },
+        {
+          "name": "Italian cafe",
+          "type": "Casual"
+        }
+      ],
+      "ingredients": [
+        "ciabatta bread",
+        "mozzarella",
+        "tomato",
+        "basil",
+        "balsamic vinegar"
+      ],
+      "time_required": 10,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular",
+        "vegetarian"
+      ],
+      "emoji": "🥪"
+    },
+    {
+      "id": 20,
+      "name_en": "Chinese Kung Pao Chicken",
+      "name_vi": "Gà Xào Lạc Kung Pao",
+      "region_en": "China",
+      "region_vi": "Trung Quốc",
+      "mood_tags": [
+        "energized",
+        "spicy-mood",
+        "quick"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "protein-rich"
+      ],
+      "description_en": "Tender chicken stir-fried with peanuts, peppers, and onions in a savory-spicy sauce. Packed with flavor, perfectly balanced heat, and completely crave-worthy.",
+      "description_vi": "Gà mềm xào với đậu phộng, ớt chuông và hành trong nước sốt mặn cay. Đầy hương vị, cân bằng cay hoàn hảo và cực kỳ thèm muốn.",
+      "restaurant_suggestions": [
+        {
+          "name": "P.F. Chang's",
+          "type": "Asian fusion"
+        },
+        {
+          "name": "Chinese restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Panda Express",
+          "type": "Quick chain"
+        }
+      ],
+      "ingredients": [
+        "chicken",
+        "peanuts",
+        "bell peppers",
+        "onions",
+        "soy sauce"
+      ],
+      "time_required": 15,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 21,
+      "name_en": "Lebanese Shawarma",
+      "name_vi": "Bánh Shawarma Li Băng",
+      "region_en": "Lebanon",
+      "region_vi": "Li Băng",
+      "mood_tags": [
+        "quick",
+        "energized",
+        "gathering"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "protein-rich"
+      ],
+      "description_en": "Marinated and slowly roasted meat, shaved thin and served in warm pita with fresh vegetables, tahini sauce, and pickles. Aromatic, satisfying, and absolutely delicious.",
+      "description_vi": "Thịt được ướp ẩm và nướng chậm, cắt mỏng và dùng với bánh pita ấm với rau tươi, nước sốt tahini và dưa chuột. Thơm ngon, thỏa mãn và cực kỳ ngon.",
+      "restaurant_suggestions": [
+        {
+          "name": "Shawarma Palace",
+          "type": "Lebanese specialist"
+        },
+        {
+          "name": "Local Middle Eastern",
+          "type": "Authentic"
+        },
+        {
+          "name": "Pita pit",
+          "type": "Casual"
+        }
+      ],
+      "ingredients": [
+        "marinated meat",
+        "pita bread",
+        "tahini",
+        "vegetables",
+        "pickles"
+      ],
+      "time_required": 15,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 22,
+      "name_en": "Portuguese Bacalhau à Brás",
+      "name_vi": "Cá Tuyết Xào Kiểu Bồ Đào Nha",
+      "region_en": "Portugal",
+      "region_vi": "Bồ Đào Nha",
+      "mood_tags": [
+        "comfort",
+        "celebration"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "seafood"
+      ],
+      "description_en": "Shredded salted cod fried until golden and crispy, tossed with straw-cut potatoes, olives, and onions. A beloved Portuguese classic that's absolutely crave-worthy.",
+      "description_vi": "Cá tuyết mặn xắt nhỏ chiên vàng giòn, trộn với khoai tây cắt sợi, olive và hành. Một món ăn cổ điển Bồ Đào Nha được yêu thích và cực kỳ thèm muốn.",
+      "restaurant_suggestions": [
+        {
+          "name": "Portuguese restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Seafood house",
+          "type": "Portuguese style"
+        },
+        {
+          "name": "Local bistro",
+          "type": "Casual"
+        }
+      ],
+      "ingredients": [
+        "salted cod",
+        "potatoes",
+        "olives",
+        "onions",
+        "oil"
+      ],
+      "time_required": 30,
+      "budget": "expensive",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 23,
+      "name_en": "Brazilian Feijoada",
+      "name_vi": "Feijoada Brazil",
+      "region_en": "Brazil",
+      "region_vi": "Brazil",
+      "mood_tags": [
+        "comfort",
+        "gathering",
+        "celebration"
+      ],
+      "health_tags": [
+        "high-calorie",
+        "comfort-food"
+      ],
+      "description_en": "A rich, hearty stew of black beans and various cuts of pork, slow-cooked for hours. Served with rice, orange slices, and farofa. Soul-warming and absolutely satisfying.",
+      "description_vi": "Một món hầm đậm đà, no với đậu đen và nhiều loại thịt lợn, nấu chậm hàng giờ. Dùng với cơm, lát cam và farofa. Ấm áp linh hồn.",
+      "restaurant_suggestions": [
+        {
+          "name": "Brazilian churrascaria",
+          "type": "Full Brazilian"
+        },
+        {
+          "name": "Latin restaurant",
+          "type": "Regional"
+        },
+        {
+          "name": "Brazilian cafe",
+          "type": "Casual"
+        }
+      ],
+      "ingredients": [
+        "black beans",
+        "pork",
+        "rice",
+        "orange",
+        "farofa"
+      ],
+      "time_required": 180,
+      "budget": "expensive",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 24,
+      "name_en": "Turkish Doner Kebab",
+      "name_vi": "Thịt Nướng Doner Kebab Thổ Nhĩ Kỳ",
+      "region_en": "Turkey",
+      "region_vi": "Thổ Nhĩ Kỳ",
+      "mood_tags": [
+        "quick",
+        "energized",
+        "gathering"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "protein-rich"
+      ],
+      "description_en": "Succulent marinated lamb or beef, roasted vertically and carved thin, served in warm pita with fresh tomatoes, onions, yogurt sauce, and hot sauce. Absolutely heavenly.",
+      "description_vi": "Thịt cừu hoặc bò ướp ẩm, nướng thẳng đứng và cắt mỏng, dùng với bánh pita ấm với cà chua tươi, hành, nước sốt sữa chua và nước sốt cay. Tuyệt vời.",
+      "restaurant_suggestions": [
+        {
+          "name": "Doner kebab stand",
+          "type": "Street food"
+        },
+        {
+          "name": "Turkish restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Kebab house",
+          "type": "Casual"
+        }
+      ],
+      "ingredients": [
+        "lamb",
+        "pita",
+        "tomato",
+        "onion",
+        "yogurt sauce"
+      ],
+      "time_required": 15,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍖"
+    },
+    {
+      "id": 25,
+      "name_en": "Swedish Meatballs",
+      "name_vi": "Thịt Viên Thụy Điển",
+      "region_en": "Sweden",
+      "region_vi": "Thụy Điển",
+      "mood_tags": [
+        "comfort",
+        "tired",
+        "gathering"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "comfort-food"
+      ],
+      "description_en": "Tender, juicy meatballs in a rich, creamy mushroom and beef gravy sauce. Served with egg noodles and fresh lingonberry jam. Pure Nordic comfort.",
+      "description_vi": "Thịt viên mềm, ngon trong nước sốt nấm và nước thịt bò kem đậm. Dùng với mì trứng và mứt lingonberry tươi. Thoải mái Nordic nguyên chất.",
+      "restaurant_suggestions": [
+        {
+          "name": "Scandinavian restaurant",
+          "type": "Nordic cuisine"
+        },
+        {
+          "name": "Swedish meatball house",
+          "type": "Specialist"
+        },
+        {
+          "name": "IKEA cafeteria",
+          "type": "Budget-friendly"
+        }
+      ],
+      "ingredients": [
+        "ground beef",
+        "mushrooms",
+        "cream",
+        "beef broth",
+        "egg noodles"
+      ],
+      "time_required": 30,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 26,
+      "name_en": "Indonesian Nasi Goreng",
+      "name_vi": "Cơm Chiên Indonesia",
+      "region_en": "Indonesia",
+      "region_vi": "Indonesia",
+      "mood_tags": [
+        "energized",
+        "quick",
+        "spicy-mood"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "balanced-meal"
+      ],
+      "description_en": "Fried rice stir-fried with shrimp, chicken, eggs, and vegetables in a savory-sweet sambal sauce. Topped with a fried egg and served with pickled cucumber. Absolutely delicious.",
+      "description_vi": "Cơm chiên xào với tôm, gà, trứng và rau trong nước sốt sambal mặn-ngọt. Phủ trứng chiên và dùng kèm dưa chuột chua. Cực kỳ ngon.",
+      "restaurant_suggestions": [
+        {
+          "name": "Indonesian restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Asian fusion spot",
+          "type": "Modern"
+        },
+        {
+          "name": "Street food stall",
+          "type": "Casual"
+        }
+      ],
+      "ingredients": [
+        "cooked rice",
+        "shrimp",
+        "chicken",
+        "egg",
+        "vegetables",
+        "sambal"
+      ],
+      "time_required": 20,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 27,
+      "name_en": "Moroccan Tagine",
+      "name_vi": "Thịt Hầm Tagine Maroc",
+      "region_en": "Morocco",
+      "region_vi": "Maroc",
+      "mood_tags": [
+        "comfort",
+        "exotic",
+        "gathering"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "slow-cooked"
+      ],
+      "description_en": "Tender lamb or chicken slow-cooked with prunes, apricots, and warming spices in a clay pot. Sweet, savory, and aromatic. Served with couscous.",
+      "description_vi": "Thịt cừu hoặc gà nấu chậm với quả mận, mơ và gia vị ấm áp trong một cái nồi đất. Ngọt, mặn và thơm ngon. Dùng kèm couscous.",
+      "restaurant_suggestions": [
+        {
+          "name": "Moroccan restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Mediterranean restaurant",
+          "type": "Regional"
+        },
+        {
+          "name": "Exotic cuisine spot",
+          "type": "Modern"
+        }
+      ],
+      "ingredients": [
+        "lamb",
+        "prunes",
+        "apricots",
+        "spices",
+        "couscous"
+      ],
+      "time_required": 90,
+      "budget": "expensive",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 28,
+      "name_en": "Filipino Adobo",
+      "name_vi": "Gà Kho Adobo Philippines",
+      "region_en": "Philippines",
+      "region_vi": "Philippines",
+      "mood_tags": [
+        "comfort",
+        "gathering",
+        "tired"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "comfort-food"
+      ],
+      "description_en": "Chicken braised in a savory blend of vinegar, soy sauce, garlic, and bay leaves. Tender, deeply flavorful, and absolutely comforting. Served over rice.",
+      "description_vi": "Gà hầm trong một hỗn hợp mặn của giấm, xì dầu, tỏi và lá nguyệt quế. Mềm, hương vị sâu sắc và cực kỳ thoải mái. Dùng với cơm.",
+      "restaurant_suggestions": [
+        {
+          "name": "Filipino restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Asian comfort food",
+          "type": "Casual"
+        },
+        {
+          "name": "Family restaurant",
+          "type": "Home-style"
+        }
+      ],
+      "ingredients": [
+        "chicken",
+        "vinegar",
+        "soy sauce",
+        "garlic",
+        "bay leaves",
+        "rice"
+      ],
+      "time_required": 45,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 29,
+      "name_en": "Argentinian Steak",
+      "name_vi": "Thịt Bò Nướng Argentina",
+      "region_en": "Argentina",
+      "region_vi": "Argentina",
+      "mood_tags": [
+        "celebration",
+        "energized",
+        "gathering"
+      ],
+      "health_tags": [
+        "high-protein",
+        "indulgent"
+      ],
+      "description_en": "A perfectly grilled, thick-cut steak with a charred crust and juicy pink center. Seasoned simply with salt and served with chimichurri sauce. Absolutely mouthwatering.",
+      "description_vi": "Một miếng thịt bò nướng hoàn hảo, cắt dày với vỏ cháy và trung tâm hồng juicy. Nêm đơn giản với muối và dùng kèm nước sốt chimichurri. Cực kỳ ngon miệng.",
+      "restaurant_suggestions": [
+        {
+          "name": "Argentinian steakhouse",
+          "type": "Premium"
+        },
+        {
+          "name": "Latin grill",
+          "type": "Casual"
+        },
+        {
+          "name": "BBQ restaurant",
+          "type": "Regional"
+        }
+      ],
+      "ingredients": [
+        "beef steak",
+        "salt",
+        "chimichurri",
+        "pepper"
+      ],
+      "time_required": 20,
+      "budget": "expensive",
+      "diet_ok": [
+        "regular",
+        "keto"
+      ],
+      "emoji": "🥩"
+    },
+    {
+      "id": 30,
+      "name_en": "Russian Borscht",
+      "name_vi": "Súp Beets Borscht Nga",
+      "region_en": "Russia",
+      "region_vi": "Nga",
+      "mood_tags": [
+        "tired",
+        "cold-day",
+        "comfort"
+      ],
+      "health_tags": [
+        "warm-comfort",
+        "vegetable-rich"
+      ],
+      "description_en": "A vibrant, deep-red beet soup with tender vegetables, beef, and a dollop of sour cream. Warming, nourishing, and deeply comforting on cold days.",
+      "description_vi": "Một súp cà chua quả bằm sống động, sâu đỏ với rau mềm, thịt bò và một nĩa kem chua. Ấm áp, nuôi dưỡng và cực kỳ thoải mái vào những ngày lạnh.",
+      "restaurant_suggestions": [
+        {
+          "name": "Russian restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Eastern European",
+          "type": "Regional"
+        },
+        {
+          "name": "Soup house",
+          "type": "Specialty"
+        }
+      ],
+      "ingredients": [
+        "beets",
+        "beef",
+        "vegetables",
+        "sour cream",
+        "broth"
+      ],
+      "time_required": 60,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 31,
+      "name_en": "Polish Pierogi",
+      "name_vi": "Bánh Pierogi Ba Lan",
+      "region_en": "Poland",
+      "region_vi": "Ba Lan",
+      "mood_tags": [
+        "comfort",
+        "gathering",
+        "celebration"
+      ],
+      "health_tags": [
+        "comfort-food",
+        "carbs"
+      ],
+      "description_en": "Soft, pillowy dumplings filled with cheese and potato, boiled then pan-fried until golden. Served with caramelized onions and sour cream. Pure comfort food heaven.",
+      "description_vi": "Bánh gói mềm, xốp nhân phô mai và khoai tây, luộc rồi chiên chảy cho đến khi vàng. Dùng kèm hành caramel và kem chua. Thiên đường thức ăn thoải mái nguyên chất.",
+      "restaurant_suggestions": [
+        {
+          "name": "Polish restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Eastern European",
+          "type": "Regional"
+        },
+        {
+          "name": "Pierogi cafe",
+          "type": "Specialty"
+        }
+      ],
+      "ingredients": [
+        "flour",
+        "potato",
+        "cheese",
+        "onions",
+        "sour cream"
+      ],
+      "time_required": 45,
+      "budget": "cheap",
+      "diet_ok": [
+        "regular",
+        "vegetarian"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 32,
+      "name_en": "Greek Moussaka",
+      "name_vi": "Mousakka Hy Lạp",
+      "region_en": "Greece",
+      "region_vi": "Hy Lạp",
+      "mood_tags": [
+        "comfort",
+        "celebration",
+        "gathering"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "comfort-food"
+      ],
+      "description_en": "Layers of eggplant, spiced meat sauce, and creamy béchamel sauce baked until golden. Rich, satisfying, and absolutely delicious. A Mediterranean classic.",
+      "description_vi": "Các lớp cà chua, nước sốt thịt gia vị và nước sốt béchamel kem nướng cho đến khi vàng. Đậm đà, thỏa mãn và cực kỳ ngon. Một món ăn cổ điển Địa Trung Hải.",
+      "restaurant_suggestions": [
+        {
+          "name": "Greek taverna",
+          "type": "Authentic"
+        },
+        {
+          "name": "Mediterranean restaurant",
+          "type": "Regional"
+        },
+        {
+          "name": "Greek grill",
+          "type": "Casual"
+        }
+      ],
+      "ingredients": [
+        "eggplant",
+        "ground beef",
+        "béchamel sauce",
+        "cheese"
+      ],
+      "time_required": 60,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 33,
+      "name_en": "Lebanese Mezze Platter",
+      "name_vi": "Đĩa Mezze Li Băng",
+      "region_en": "Lebanon",
+      "region_vi": "Li Băng",
+      "mood_tags": [
+        "gathering",
+        "celebration",
+        "fresh"
+      ],
+      "health_tags": [
+        "low-calorie",
+        "fresh-vegetables"
+      ],
+      "description_en": "An assortment of Mediterranean delights: hummus, baba ganoush, tabbouleh, falafel, dolmas, and fresh pita. Fresh, vibrant, and perfect for sharing.",
+      "description_vi": "Một loạt các niềm vui Địa Trung Hải: hummus, baba ganoush, tabbouleh, falafel, dolmas và bánh pita tươi. Tươi mới, sống động và hoàn hảo để chia sẻ.",
+      "restaurant_suggestions": [
+        {
+          "name": "Lebanese restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Mediterranean mezze bar",
+          "type": "Specialty"
+        },
+        {
+          "name": "Middle Eastern restaurant",
+          "type": "Casual"
+        }
+      ],
+      "ingredients": [
+        "hummus",
+        "baba ganoush",
+        "tabbouleh",
+        "falafel",
+        "pita"
+      ],
+      "time_required": 20,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular",
+        "vegan",
+        "vegetarian"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 34,
+      "name_en": "Peruvian Ceviche",
+      "name_vi": "Ceviche Peru",
+      "region_en": "Peru",
+      "region_vi": "Peru",
+      "mood_tags": [
+        "fresh",
+        "light",
+        "energized"
+      ],
+      "health_tags": [
+        "low-calorie",
+        "seafood",
+        "fresh"
+      ],
+      "description_en": "Fresh raw fish marinated in lime juice with tomatoes, red onions, cilantro, and chili peppers. Light, refreshing, zesty, and absolutely exquisite.",
+      "description_vi": "Cá sống tươi ướp nước cốt chanh với cà chua, hành đỏ, mùi tây và ớt chuông. Nhẹ nhàng, sảng khoái, chua cay và cực kỳ tinh tế.",
+      "restaurant_suggestions": [
+        {
+          "name": "Peruvian restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Seafood restaurant",
+          "type": "Specialty"
+        },
+        {
+          "name": "Latin American cuisine",
+          "type": "Modern"
+        }
+      ],
+      "ingredients": [
+        "fresh fish",
+        "lime",
+        "tomato",
+        "onion",
+        "cilantro",
+        "chili"
+      ],
+      "time_required": 20,
+      "budget": "expensive",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "id": 35,
+      "name_en": "Lebanese Kibbeh",
+      "name_vi": "Kibbeh Li Băng",
+      "region_en": "Lebanon",
+      "region_vi": "Li Băng",
+      "mood_tags": [
+        "gathering",
+        "celebration",
+        "comfort"
+      ],
+      "health_tags": [
+        "moderate-calorie",
+        "protein-rich"
+      ],
+      "description_en": "Crispy, golden fried bulgur and lamb shells filled with spiced ground meat. Served with yogurt sauce. Perfectly balanced between crispy and tender, absolutely irresistible.",
+      "description_vi": "Vỏ bulgur và thịt cừu chiên giòn vàng nhân với thịt xay gia vị. Dùng với nước sốt sữa chua. Cân bằng hoàn hảo giữa giòn và mềm, cực kỳ không thể cưỡng lại.",
+      "restaurant_suggestions": [
+        {
+          "name": "Lebanese restaurant",
+          "type": "Authentic"
+        },
+        {
+          "name": "Middle Eastern restaurant",
+          "type": "Casual"
+        },
+        {
+          "name": "Mediterranean grill",
+          "type": "Modern"
+        }
+      ],
+      "ingredients": [
+        "bulgur",
+        "lamb",
+        "ground meat",
+        "spices",
+        "yogurt"
+      ],
+      "time_required": 30,
+      "budget": "moderate",
+      "diet_ok": [
+        "regular"
+      ],
+      "emoji": "🍽️"
+    }
+  ]
+}

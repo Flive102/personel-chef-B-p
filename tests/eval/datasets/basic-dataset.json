@@ -1,0 +1,11 @@
+{
+  "eval_cases": [
+    {
+      "eval_case_id": "greeting",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "Bắt đầu"}]
+      }
+    }
+  ]
+}

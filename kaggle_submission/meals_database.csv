@@ -1,0 +1,41 @@
+meal_id,name_en,name_vi,emoji,cuisine,region,mood_tags,health_tags,time_required,budget,description,energy_level
+1,Chocolate Cake,Bánh Chocolate,🍰,Dessert,Global,sadness_comfort_nostalgia,comfort_indulgent,leisurely,moderate,Rich chocolate cake - ultimate comfort food,high
+2,Pizza,Bánh Pizza,🍕,Italian,Global,joy_celebration_sharing,carbs_cheese,normal,cheap,Classic pizza - great for sharing with friends,medium
+3,Mango Sticky Rice,Xôi Xoài,🥭,Thai,Southeast Asia,exhaustion_comfort_love,energy_fruit,normal,cheap,Sweet sticky rice with fresh mango - energizing and comforting,medium
+4,Ramen,Mì Ramen,🍜,Japanese,East Asia,exhaustion_stress_comfort,protein_broth_warming,quick,moderate,Hot noodle soup - warming and soul-satisfying,high
+5,Salmon,Cá Hồi,🐟,Seafood,Global,exhaustion_energy_health,protein_omega3_healthy,normal,expensive,Grilled salmon - rich in energy and health benefits,high
+6,Butter Chicken,Gà Bơ,🍛,Indian,South Asia,exhaustion_comfort_stress,protein_creamy_warming,normal,moderate,Creamy chicken curry - comforting and protein-rich,high
+7,Salad,Salad,🥗,Healthy,Global,joy_health_calm,vegetables_light_fresh,quick,moderate,Fresh green salad - light and energizing,low
+8,Ice Cream,Kem,🍦,Dessert,Global,joy_celebration_love,sweet_comfort,quick,cheap,Cold ice cream - instant happiness,medium
+9,Grilled Vegetables,Rau Nướng,🥦,Vegetarian,Global,calm_health_peace,vegetables_healthy,normal,moderate,Grilled seasonal vegetables - wholesome and balanced,low
+10,Pad Thai,Pad Thai,🍲,Thai,Southeast Asia,joy_comfort_adventure,noodles_flavor_balanced,quick,cheap,Stir-fried noodles with peanut sauce - flavorful and satisfying,medium
+11,Sushi,Sushi,🍣,Japanese,East Asia,joy_celebration_sophisticated,fish_fresh_elegant,normal,expensive,Fresh sushi - elegant and refined,low
+12,Pho,Phở,🍲,Vietnamese,Southeast Asia,exhaustion_comfort_calm,broth_warming_soul,normal,cheap,Traditional Vietnamese broth - ultimate comfort food,high
+13,Spicy Curry,Cà Ri,🌶️,Indian,South Asia,anger_stress_bold,spicy_intense_warming,normal,moderate,Fiery curry - bold and satisfying,high
+14,Fruit Smoothie,Sinh Tố,🥤,Healthy,Global,joy_energy_fresh,fruit_vitamins_light,quick,moderate,Blended fruits - refreshing and energizing,medium
+15,Pasta Carbonara,Mì Carbonara,🍝,Italian,Global,comfort_joy_indulgent,pasta_creamy_rich,normal,moderate,Creamy pasta - indulgent and satisfying,high
+16,Grilled Fish,Cá Nướng,🐟,Seafood,Global,calm_health_peace,fish_protein_light,normal,moderate,Simple grilled fish - clean and healthy,medium
+17,Chicken Soup,Cháo Gà,🍜,Vietnamese,Southeast Asia,exhaustion_sick_comfort,broth_light_warming,quick,cheap,Healing chicken broth - comfort in a bowl,medium
+18,Dark Chocolate,Socola Đen,🍫,Dessert,Global,sadness_stress_love,antioxidant_mood_boost,quick,moderate,Rich dark chocolate - mood-boosting treat,medium
+19,Baked Sweet Potato,Khoai Nướng,🥔,Vegetarian,Global,energy_health_comfort,complex_carbs_vitamins,normal,cheap,Warm sweet potato - natural energy boost,medium
+20,Grilled Shrimp,Tôm Nướng,🦐,Seafood,Global,celebration_joy_special,protein_light_elegant,normal,expensive,Fresh grilled shrimp - light and special,low
+21,Lentil Soup,Canh Đậu,🍲,Vegetarian,Global,calm_health_nourishing,protein_fiber_grounding,normal,cheap,Hearty lentil soup - grounding and nutritious,medium
+22,Miso Soup,Canh Miso,🍲,Japanese,East Asia,calm_peace_simple,fermented_light_warming,quick,moderate,Traditional miso broth - simple and centering,low
+23,Avocado Toast,Bánh Bơ,🥑,Healthy,Global,joy_energy_fresh,healthy_fats_protein,quick,moderate,Whole grain with avocado - trendy and nutritious,medium
+24,Beef Steak,Thịt Bò,🥩,Meat,Global,celebration_joy_special,protein_iron_powerful,normal,expensive,Grilled beef steak - powerful and satisfying,high
+25,Spring Rolls,Cuốn,🌮,Vietnamese,Southeast Asia,joy_adventure_light,fresh_vegetables_balanced,quick,cheap,Fresh spring rolls - light and adventurous,low
+26,Tom Yum Soup,Canh Chua,🍲,Thai,Southeast Asia,stress_bold_warming,spicy_healing_intense,normal,moderate,Spicy Thai soup - bold and therapeutic,high
+27,Pancakes,Bánh Mỳ,🥞,Breakfast,Global,joy_comfort_celebration,carbs_sweet_indulgent,normal,cheap,Fluffy pancakes - morning happiness,high
+28,Quinoa Bowl,Bát Quinoa,🥗,Healthy,Global,energy_health_balanced,protein_complete_light,quick,moderate,Balanced grain bowl - nutritious superfood,medium
+29,Beef Pho,Phở Bò,🍲,Vietnamese,Southeast Asia,exhaustion_comfort_soul,broth_protein_warming,normal,cheap,Beef broth pho - ultimate Vietnamese comfort,high
+30,Tiramisu,Tiramisu,🍰,Dessert,Global,joy_love_indulgent,coffee_chocolate_elegant,leisurely,moderate,Italian dessert - layered luxury,medium
+31,Grilled Chicken,Gà Nướng,🍗,Meat,Global,energy_health_balanced,protein_lean_balanced,normal,moderate,Simple grilled chicken - clean and energizing,high
+32,Green Tea,Trà Xanh,🍵,Beverage,Global,calm_peace_meditation,antioxidant_light_zen,quick,cheap,Calming green tea - peaceful moment,low
+33,Tacos,Tacos,🌮,Mexican,Americas,joy_celebration_fun,colorful_engaging_sharing,quick,cheap,Fun tacos - perfect for celebrations,medium
+34,Oatmeal,Cháo Yến Mạch,🥣,Breakfast,Global,calm_start_grounding,fiber_sustaining_warm,quick,cheap,Warm oatmeal - grounding morning,medium
+35,Margherita Pizza,Pizza Margherita,🍕,Italian,Global,joy_light_simple,fresh_balanced_pure,normal,moderate,Simple pizza - pure Italian joy,medium
+36,Steamed Vegetables,Rau Hấp,🥬,Vegetarian,Global,health_calm_pure,light_clean_healthy,quick,cheap,Clean steamed vegetables - pure nourishment,low
+37,Seafood Pasta,Mì Hải Sản,🍝,Seafood,Global,celebration_elegant_fresh,seafood_protein_refined,normal,expensive,Fresh seafood pasta - elegant celebration,high
+38,Coconut Curry,Cà Ri Dừa,🥥,Thai,Southeast Asia,comfort_exotic_warming,creamy_warming_unique,normal,moderate,Creamy coconut curry - exotic comfort,high
+39,Falafel,Falafel,🍤,Middle Eastern,Middle East,energy_bold_satisfying,protein_fiber_bold,quick,cheap,Crispy fried chickpea - bold satisfaction,high
+40,Kombucha,Kombucha,🍶,Beverage,Global,health_energy_probiotics,fermented_living_energizing,quick,moderate,Probiotic drink - living energy,low

@@ -1,0 +1,237 @@
+# mood_to_meal_butler/config_schema.yaml
+# PHASE 4: Configuration System for Extensibility
+# Developers can customize emotions, meals, recommendations via YAML
+
+# SECTION 1: EMOTION CONFIGURATION
+# Easy to add new emotions without code changes
+
+emotions:
+  
+  sadness:
+    keywords: [sad, down, depressed, upset, unhappy, blue, heartbroken]
+    emoji: "💙"
+    greeting: "I hear you... that's tough. Let me suggest comfort foods."
+    meal_filters: [comfort, warmth, mood-booster]
+    response_style: empathetic
+    temperature: warm
+  
+  exhaustion:
+    keywords: [tired, exhausted, fatigue, sleepy, drained, worn-out, weary]
+    emoji: "😴"
+    greeting: "You sound exhausted. Here are restorative foods."
+    meal_filters: [energy-boost, recovery, rejuvenation]
+    response_style: supportive
+    temperature: warm
+  
+  joy:
+    keywords: [happy, excited, celebrating, thrilled, delighted, ecstatic]
+    emoji: "🎉"
+    greeting: "That's wonderful! Let me suggest celebration meals!"
+    meal_filters: [celebration, indulgent, special]
+    response_style: enthusiastic
+    temperature: any
+  
+  stress:
+    keywords: [stressed, anxious, nervous, worried, tense, pressured]
+    emoji: "😰"
+    greeting: "Take a breath. Here are calming foods."
+    meal_filters: [calm-peaceful, grounding, soothing]
+    response_style: soothing
+    temperature: warm
+  
+  anger:
+    keywords: [angry, frustrated, annoyed, irritated, furious, enraged]
+    emoji: "😤"
+    greeting: "That sounds frustrating. Foods to help you unwind."
+    meal_filters: [comfort, satisfying, grounding]
+    response_style: validating
+    temperature: warm
+  
+  illness:
+    keywords: [sick, unwell, ill, under-the-weather, flu, cold, nauseous]
+    emoji: "🤒"
+    greeting: "I hope you feel better soon. Nourishing meals."
+    meal_filters: [nourishing, gentle, nutritious]
+    response_style: caring
+    temperature: warm
+  
+  boredom:
+    keywords: [bored, unmotivated, meh, lazy, apathetic, listless]
+    emoji: "😒"
+    greeting: "You need excitement! Energizing meals incoming."
+    meal_filters: [exciting, flavorful, adventurous]
+    response_style: uplifting
+    temperature: any
+  
+  loneliness:
+    keywords: [lonely, alone, isolated, solitary, disconnected]
+    emoji: "🤝"
+    greeting: "I'm here for you. Comforting meal to brighten your day."
+    meal_filters: [comfort, social, sharing]
+    response_style: warm
+    temperature: warm
+  
+  calm:
+    keywords: [calm, peaceful, serene, meditative, tranquil, relaxed]
+    emoji: "🧘"
+    greeting: "Beautiful. Peaceful meals to maintain serenity."
+    meal_filters: [light, mindful, nourishing]
+    response_style: gentle
+    temperature: warm
+  
+  energy:
+    keywords: [energetic, pumped, vibrant, hyped, active, motivated]
+    emoji: "⚡"
+    greeting: "Amazing! Power meals to fuel your momentum!"
+    meal_filters: [power, energizing, protein-rich]
+    response_style: energetic
+    temperature: any
+  
+  romance:
+    keywords: [romantic, in-love, affectionate, intimate, tender, amorous]
+    emoji: "❤️"
+    greeting: "How sweet! Romantic meals for this special moment."
+    meal_filters: [romantic, elegant, intimate]
+    response_style: romantic
+    temperature: any
+  
+  adventure:
+    keywords: [adventurous, curious, exploring, experimental, daring, bold]
+    emoji: "🚀"
+    greeting: "Exciting! Exotic and adventurous meals!"
+    meal_filters: [exotic, adventurous, international]
+    response_style: exciting
+    temperature: any
+  
+  nostalgia:
+    keywords: [homesick, nostalgic, sentimental, wistful, yearning]
+    emoji: "🏡"
+    greeting: "I understand. Nostalgic meals to make you feel at home."
+    meal_filters: [comfort, traditional, homestyle]
+    response_style: nostalgic
+    temperature: warm
+  
+  confidence:
+    keywords: [confident, assured, fearless, capable, empowered, strong]
+    emoji: "💪"
+    greeting: "That's the spirit! Meals worthy of your achievement."
+    meal_filters: [celebration, empowering, premium]
+    response_style: celebratory
+    temperature: any
+
+# SECTION 2: SITUATION CONFIGURATION
+# Add new contexts without changing code
+
+situations:
+  
+  at-office:
+    keywords: [at office, at work, workplace, desk, cubicle, meeting]
+    meal_filters: [quick, desk-friendly, no-mess, portable]
+    context: "Professional setting with limited time"
+  
+  on-date:
+    keywords: [on date, date night, romantic dinner, with date]
+    meal_filters: [romantic, elegant, shareable, impressive]
+    context: "Romantic outing"
+  
+  family-meal:
+    keywords: [family dinner, cooking family, with kids, family meal]
+    meal_filters: [family-friendly, kid-approved, filling, nutritious]
+    context: "Family gathering"
+  
+  quick-bite:
+    keywords: [quick, fast, in hurry, 5 minutes, 15 minutes, hungry now]
+    meal_filters: [quick, <15min, instant, no-prep]
+    context: "Need food immediately"
+  
+  budget:
+    keywords: [budget, cheap, affordable, poor, tight budget, broke]
+    meal_filters: [budget-friendly, inexpensive, filling]
+    context: "Limited financial resources"
+  
+  premium:
+    keywords: [treat myself, splurge, expensive, fancy, luxury]
+    meal_filters: [premium, gourmet, upscale, indulgent]
+    context: "Special treat"
+  
+  fitness:
+    keywords: [just exercised, post-workout, gym, running, training]
+    meal_filters: [protein-rich, recovery, energy-restore]
+    context: "Post-exercise nutrition"
+  
+  cooking:
+    keywords: [cooking, can cook, making dinner, prepare, cook myself]
+    meal_filters: [recipe, ingredients, instructions]
+    context: "User wants to cook"
+  
+  ordering:
+    keywords: [order, delivery, takeout, restaurant, door dash, uber eats]
+    meal_filters: [available-delivery, restaurant-suggestion]
+    context: "User wants delivery"
+
+# SECTION 3: RECOMMENDATION STRATEGY
+
+recommendations:
+  
+  strategy: context_weighted
+  
+  # How much each factor influences recommendation (0-1)
+  factors:
+    mood: 0.40          # Primary driver
+    time_available: 0.25
+    budget: 0.15
+    weather: 0.10
+    situation: 0.10
+
+# SECTION 4: LANGUAGE SUPPORT
+
+languages:
+  
+  en:
+    name: English
+    emoji: 🇬🇧
+    default: true
+  
+  vi:
+    name: Vietnamese
+    emoji: 🇻🇳
+    default: false
+
+# SECTION 5: DEVELOPER HOOKS
+
+# Developers can add custom code here
+plugins:
+  emotion_detectors:
+    - name: keyword_based
+      enabled: true
+    - name: ml_based
+      enabled: false
+  
+  recommenders:
+    - name: simple_tag_based
+      enabled: true
+    - name: ml_based
+      enabled: false
+  
+  integrations:
+    - name: nutrition_tracker
+      enabled: false
+    - name: delivery_apps
+      enabled: false
+
+# SECTION 6: PERFORMANCE TUNING
+
+performance:
+  
+  # Cache meals for faster recommendations
+  cache_enabled: true
+  cache_ttl_sec: 3600  # 1 hour
+  
+  # Max meals to load initially
+  meals_batch_size: 500
+  
+  # Max recommendations to return
+  max_recommendations: 4
+  
+  # Emotion detection timeout
+  emotion_detect_timeout_ms: 100

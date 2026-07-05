@@ -1,0 +1,105 @@
+{
+  "eval_cases": [
+    {
+      "eval_case_id": "sad_day_story_en",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "I had a really tough day today. Everything went wrong at work, my boss yelled at me, and I just feel like crying."}]
+      }
+    },
+    {
+      "eval_case_id": "tired_work_en",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "I just got home after a 12-hour shift. I'm completely exhausted and my body aches. I just want to relax."}]
+      }
+    },
+    {
+      "eval_case_id": "celebration_job_en",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "Guess what! I got the job offer I was waiting for! I'm so happy and excited!"}]
+      }
+    },
+    {
+      "eval_case_id": "cold_sick_vi",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "Tôi bị cảm cúm rồi, đau họng và nhức đầu quá."}]
+      }
+    },
+    {
+      "eval_case_id": "anxious_presentation_vi",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "Ngày mai tôi có buổi thuyết trình quan trọng trước toàn công ty, lo lắng đến mất ngủ."}]
+      }
+    },
+    {
+      "eval_case_id": "confirm_meal_en",
+      "agent_data": {
+        "turns": [
+          {
+            "turn_index": 0,
+            "events": [
+              {
+                "author": "user",
+                "content": {
+                  "role": "user",
+                  "parts": [{"text": "I feel so down today."}]
+                }
+              },
+              {
+                "author": "agent",
+                "content": {
+                  "role": "model",
+                  "parts": [{"text": "I am so sorry to hear that. I highly recommend something sweet to boost your spirits, like our Chocolate Brownie or a warm Apple Pie. Which one would you prefer?"}]
+                }
+              },
+              {
+                "author": "user",
+                "content": {
+                  "role": "user",
+                  "parts": [{"text": "I will take the Chocolate Brownie"}]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "eval_case_id": "confirm_meal_vi",
+      "agent_data": {
+        "turns": [
+          {
+            "turn_index": 0,
+            "events": [
+              {
+                "author": "user",
+                "content": {
+                  "role": "user",
+                  "parts": [{"text": "Hôm nay tôi mệt quá."}]
+                }
+              },
+              {
+                "author": "agent",
+                "content": {
+                  "role": "model",
+                  "parts": [{"text": "Tôi hiểu cảm giác mệt mỏi đó. Một bát Cháo Gà ấm nóng hoặc một cốc Trà Gừng Mật Ong sẽ giúp bạn hồi phục. Bạn muốn chọn món nào?"}]
+                }
+              },
+              {
+                "author": "user",
+                "content": {
+                  "role": "user",
+                  "parts": [{"text": "Làm cho tôi bát Cháo Gà đi"}]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
